@@ -1,0 +1,197 @@
+{
+  "edges": [
+    {
+      "fromNode": "990dc5ae9d1a5641",
+      "fromSide": "right",
+      "id": "4e9238058636e85d",
+      "styleAttributes": {
+      },
+      "toNode": "b2166b2bdb283405",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b2166b2bdb283405",
+      "fromSide": "right",
+      "id": "86f73edb4a7ce03b",
+      "styleAttributes": {
+      },
+      "toNode": "289d1f88cfcf27b1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b2166b2bdb283405",
+      "fromSide": "right",
+      "id": "7042915a36b82f89",
+      "styleAttributes": {
+      },
+      "toNode": "5f0754d5ea918813",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b2166b2bdb283405",
+      "fromSide": "right",
+      "id": "d35509cc7f2f38d2",
+      "styleAttributes": {
+      },
+      "toNode": "8e58a7a27b4dee45",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "990dc5ae9d1a5641",
+      "fromSide": "left",
+      "id": "48ec621289d9bd9f",
+      "styleAttributes": {
+      },
+      "toNode": "a32cafa635772788",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "990dc5ae9d1a5641",
+      "fromSide": "left",
+      "id": "2dbdc00864e6eec0",
+      "styleAttributes": {
+      },
+      "toNode": "00d494e4ba1482fd",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "990dc5ae9d1a5641",
+      "fromSide": "right",
+      "id": "48ff2c81066e1846",
+      "styleAttributes": {
+      },
+      "toNode": "ec41fea7b5418630",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "990dc5ae9d1a5641",
+      "fromSide": "left",
+      "id": "ce0769eef6023a22",
+      "styleAttributes": {
+      },
+      "toNode": "5670320685d1702d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b2166b2bdb283405",
+      "fromSide": "right",
+      "id": "18e785a42b8db4cb",
+      "styleAttributes": {
+      },
+      "toNode": "25943c3614e8f7aa",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "Linux UNIX.md",
+      "height": 240,
+      "id": "990dc5ae9d1a5641",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -260,
+      "y": -300
+    },
+    {
+      "file": "Удобные утилиты Linux Unix Mac. Удобные ништяки, команды.md",
+      "height": 700,
+      "id": "b2166b2bdb283405",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": 320,
+      "y": -680
+    },
+    {
+      "file": "Пишем сразу несколько команд.md",
+      "height": 400,
+      "id": "5f0754d5ea918813",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1380,
+      "y": -60
+    },
+    {
+      "file": "генерируем ssh ключи в терминале.md",
+      "height": 400,
+      "id": "8e58a7a27b4dee45",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1380,
+      "y": -500
+    },
+    {
+      "file": "создаем сразу несколько директорий.md",
+      "height": 270,
+      "id": "289d1f88cfcf27b1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1380,
+      "y": -815
+    },
+    {
+      "file": "sudo echo >>.md",
+      "height": 400,
+      "id": "a32cafa635772788",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": -1140,
+      "y": -700
+    },
+    {
+      "file": "shell rar (linux, mac).md",
+      "height": 400,
+      "id": "ec41fea7b5418630",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 740,
+      "x": 340,
+      "y": 140
+    },
+    {
+      "file": "pass gpg хранение паролей и шифрование.md",
+      "height": 560,
+      "id": "25943c3614e8f7aa",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 820,
+      "x": 1370,
+      "y": -1440
+    },
+    {
+      "file": "ghosty ssh решение проблемы.md",
+      "height": 280,
+      "id": "5670320685d1702d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 660,
+      "x": -1390,
+      "y": -240
+    },
+    {
+      "file": "Пример .env (переменные окружения).md",
+      "height": 400,
+      "id": "00d494e4ba1482fd",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 640,
+      "x": -1280,
+      "y": 140
+    }
+  ]
+}

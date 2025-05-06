@@ -1,0 +1,18 @@
+{
+  "todoist-sync-plugin:add-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "todoist-sync-plugin:todoist-sync": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}

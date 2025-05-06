@@ -1,0 +1,318 @@
+{
+  "edges": [
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "top",
+      "id": "ec157789679a6f9d",
+      "styleAttributes": {
+      },
+      "toNode": "6e7847406d4083bc",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "right",
+      "id": "938fcd8a76e3f4a8",
+      "styleAttributes": {
+      },
+      "toNode": "183e848f5c546ccf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "left",
+      "id": "db88d580d9a5578e",
+      "styleAttributes": {
+      },
+      "toNode": "1644bdfc247d5487",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "bottom",
+      "id": "e4754852a5ad9a61",
+      "styleAttributes": {
+      },
+      "toNode": "c9ca98082e65ebf3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1644bdfc247d5487",
+      "fromSide": "left",
+      "id": "3dcd7c529f74fd7a",
+      "styleAttributes": {
+      },
+      "toNode": "53c179b7ae41cae5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d1d0567f6c566383",
+      "fromSide": "left",
+      "id": "7e96076f64cd086e",
+      "styleAttributes": {
+      },
+      "toNode": "0779e24bc34fbbc2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d1d0567f6c566383",
+      "fromSide": "right",
+      "id": "30906553784a3511",
+      "styleAttributes": {
+      },
+      "toNode": "567238fc15b20cd4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d1d0567f6c566383",
+      "fromSide": "bottom",
+      "id": "cc94a20f8b6ed340",
+      "styleAttributes": {
+      },
+      "toNode": "f4ef694411d3db6d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f4ef694411d3db6d",
+      "fromSide": "right",
+      "id": "728ac2c49f58ee11",
+      "styleAttributes": {
+      },
+      "toNode": "07b6467145fa3648",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "left",
+      "id": "e781cdcee9ca5012",
+      "styleAttributes": {
+      },
+      "toNode": "8a28af266d12321e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8a28af266d12321e",
+      "fromSide": "left",
+      "id": "8f4e91223d1e4e47",
+      "styleAttributes": {
+      },
+      "toNode": "6e4e733ec155c39b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8a28af266d12321e",
+      "fromSide": "left",
+      "id": "f849f50caf866727",
+      "styleAttributes": {
+      },
+      "toNode": "679833ad22d17256",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c9ca98082e65ebf3",
+      "fromSide": "bottom",
+      "id": "210094e6dbf869d8",
+      "styleAttributes": {
+      },
+      "toNode": "a2945713cbf93645",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "bottom",
+      "id": "ea09488d2c3c9d65",
+      "styleAttributes": {
+      },
+      "toNode": "9ced1639b8a1f67a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9ced1639b8a1f67a",
+      "fromSide": "bottom",
+      "id": "ead6cca5f7b9ef27",
+      "styleAttributes": {
+      },
+      "toNode": "021d0e8aafc705c8",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "Frontend.md",
+      "height": 160,
+      "id": "0779e24bc34fbbc2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 0,
+      "y": -120
+    },
+    {
+      "file": "SSE.md",
+      "height": 720,
+      "id": "6e7847406d4083bc",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 720,
+      "x": -160,
+      "y": -1160
+    },
+    {
+      "file": "env frontend переменные окружения в фронтенде.md",
+      "height": 1120,
+      "id": "183e848f5c546ccf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": 880,
+      "y": -930
+    },
+    {
+      "file": "CSS.md",
+      "height": 160,
+      "id": "d1d0567f6c566383",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1380,
+      "y": 400
+    },
+    {
+      "file": "tailwind.md",
+      "height": 220,
+      "id": "567238fc15b20cd4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2020,
+      "y": 100
+    },
+    {
+      "file": "Create button (frontend) создаем кнопку.md",
+      "height": 1200,
+      "id": "07b6467145fa3648",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1120,
+      "x": 3140,
+      "y": 680
+    },
+    {
+      "file": "Описываем элементы (виджитеы, ui-элементы, css элементы, html) правильно.md",
+      "height": 1400,
+      "id": "f4ef694411d3db6d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 960,
+      "x": 2040,
+      "y": 480
+    },
+    {
+      "file": "Создаем запросы на ручки бэкэнда на фронтеде правильно. Routes to backend from frontend.md",
+      "height": 1920,
+      "id": "c9ca98082e65ebf3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1120,
+      "x": -1280,
+      "y": 400
+    },
+    {
+      "file": "Кастомные ошибки, custom error (Frontend, React, TypeScript (TS)), exceptions.md",
+      "height": 555,
+      "id": "1644bdfc247d5487",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 940,
+      "x": -1480,
+      "y": -1077
+    },
+    {
+      "file": "Хороший тон обработки ошибок на фронтенде.md",
+      "height": 280,
+      "id": "53c179b7ae41cae5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 640,
+      "x": -2400,
+      "y": -1070
+    },
+    {
+      "file": "Сохраняем данные на фронтедне (frontend) Хранилища данных на фронтенде.md",
+      "height": 420,
+      "id": "8a28af266d12321e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1000,
+      "y": -280
+    },
+    {
+      "file": "Ставим ограничения на ожидание ответа сервера на фронтенде (frontend) асинхронно.md",
+      "height": 1230,
+      "id": "a2945713cbf93645",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 980,
+      "x": -1400,
+      "y": 2520
+    },
+    {
+      "file": "Hooks хуки в frontend.md",
+      "height": 320,
+      "id": "9ced1639b8a1f67a",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 560,
+      "x": 40,
+      "y": 720
+    },
+    {
+      "file": "useState.md",
+      "height": 520,
+      "id": "021d0e8aafc705c8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 880,
+      "x": 40,
+      "y": 1440
+    },
+    {
+      "file": "session storage.md",
+      "height": 400,
+      "id": "679833ad22d17256",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1840,
+      "y": -40
+    },
+    {
+      "file": "LocalStorage.md",
+      "height": 400,
+      "id": "6e4e733ec155c39b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1880,
+      "y": -520
+    }
+  ]
+}

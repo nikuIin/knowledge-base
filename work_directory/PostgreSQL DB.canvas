@@ -1,0 +1,333 @@
+{
+  "edges": [
+    {
+      "fromNode": "6b2926925703b743",
+      "fromSide": "right",
+      "id": "f88dfc67cbd930f8",
+      "styleAttributes": {
+      },
+      "toNode": "0e812e3a1a2df6b2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0e812e3a1a2df6b2",
+      "fromSide": "right",
+      "id": "57075dfa26ec687b",
+      "styleAttributes": {
+      },
+      "toNode": "caf66f09d8e3e57d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "42575dc927ed38ca",
+      "fromSide": "right",
+      "id": "001d348e32a96d5c",
+      "styleAttributes": {
+      },
+      "toNode": "e51accff63b1647c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6b2926925703b743",
+      "fromSide": "right",
+      "id": "aebad7abcd964a72",
+      "styleAttributes": {
+      },
+      "toNode": "42575dc927ed38ca",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6b2926925703b743",
+      "fromSide": "left",
+      "id": "17b570adfa8a01a2",
+      "styleAttributes": {
+      },
+      "toNode": "53dbd4bd97a411db",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "53dbd4bd97a411db",
+      "fromSide": "left",
+      "id": "9e2b65df3538d9a5",
+      "styleAttributes": {
+      },
+      "toNode": "0072ffe426c7d546",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6b2926925703b743",
+      "fromSide": "left",
+      "id": "f8cc50fe8b42de39",
+      "styleAttributes": {
+      },
+      "toNode": "0072ffe426c7d546",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "postgres/соединение таблиц (внутри postgreSQL).md",
+      "height": 400,
+      "id": "d1641f69b569010b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1020,
+      "y": 880
+    },
+    {
+      "file": "postgres/Составной первичный ключ.md",
+      "height": 400,
+      "id": "29523b9ac0776cfc",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -560,
+      "y": 880
+    },
+    {
+      "file": "postgres/автокомплит autocomplit реализация.md",
+      "height": 400,
+      "id": "df994ce8284cacf1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -120,
+      "y": 880
+    },
+    {
+      "file": "postgres/index на выражения.md",
+      "height": 400,
+      "id": "fe04973759368961",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 320,
+      "y": 880
+    },
+    {
+      "file": "postgres/Расхождения в explain analyze.md",
+      "height": 400,
+      "id": "ae6b304b707d644e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 760,
+      "y": 880
+    },
+    {
+      "file": "postgres/хранимые процедуры и функции. Functions and procedure.md",
+      "height": 400,
+      "id": "a5cefdbf44ed4c99",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 720,
+      "x": -1840,
+      "y": 1400
+    },
+    {
+      "file": "postgres/пулы соеденений.md",
+      "height": 400,
+      "id": "6108b8072ab2c8f9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1020,
+      "y": 1400
+    },
+    {
+      "file": "postgres/План партиционирования.md",
+      "height": 560,
+      "id": "4f0859b769eae415",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": -560,
+      "y": 1400
+    },
+    {
+      "file": "postgres/olap.md",
+      "height": 400,
+      "id": "43840664427c02fa",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1020,
+      "y": 320
+    },
+    {
+      "file": "postgres/generate series.md",
+      "height": 400,
+      "id": "4bf381e4f80fc047",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -520,
+      "y": 320
+    },
+    {
+      "file": "postgres/history realization.md",
+      "height": 600,
+      "id": "1e596f51c27798e9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 600,
+      "x": -2400,
+      "y": 0
+    },
+    {
+      "file": "postgres/postgreSQL.md",
+      "height": 240,
+      "id": "6b2926925703b743",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -160,
+      "y": -240
+    },
+    {
+      "file": "postgres/начало работы с postgreSQL.md",
+      "height": 400,
+      "id": "caf66f09d8e3e57d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1600,
+      "y": -920
+    },
+    {
+      "file": "postgres/postgres in python.md",
+      "height": 400,
+      "id": "42575dc927ed38ca",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 900,
+      "y": 260
+    },
+    {
+      "file": "postgres/link format for connections.md",
+      "height": 360,
+      "id": "e51accff63b1647c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1640,
+      "y": -20
+    },
+    {
+      "file": "postgres/limit and group by rollup, cube or grouping sets.md",
+      "height": 520,
+      "id": "c9dfc1dff7e8f977",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1600,
+      "y": 720
+    },
+    {
+      "file": "postgres/Start with postgres  Download postgres Установка.md",
+      "height": 880,
+      "id": "0e812e3a1a2df6b2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 680,
+      "y": -1000
+    },
+    {
+      "file": "postgres/operators postgresql.md",
+      "height": 400,
+      "id": "f11455fbcd002696",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1570,
+      "y": 160
+    },
+    {
+      "file": "postgres/explain analyze.md",
+      "height": 400,
+      "id": "04ce19ed49c936ef",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -2250,
+      "y": -1000
+    },
+    {
+      "file": "postgres/func for execute sql in python with auto rollup.md",
+      "height": 400,
+      "id": "e0f8272dc58dea91",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": -2480,
+      "y": -520
+    },
+    {
+      "file": "postgres/null.md",
+      "height": 400,
+      "id": "6cf59d24c7d81b03",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -2250,
+      "y": -1480
+    },
+    {
+      "file": "postgres/index.md",
+      "height": 400,
+      "id": "b072c6b75f226ca2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": -880,
+      "y": -1620
+    },
+    {
+      "file": "СУБД.md",
+      "height": 400,
+      "id": "53dbd4bd97a411db",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -960,
+      "y": -1000
+    },
+    {
+      "file": "tablespace.md",
+      "height": 560,
+      "id": "0072ffe426c7d546",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 510,
+      "x": -1680,
+      "y": -800
+    }
+  ]
+}

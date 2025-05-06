@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 17,
+  "theme": "system",
+  "interfaceFontFamily": "Times New Roman",
+  "monospaceFontFamily": "",
+  "translucency": false,
+  "cssTheme": "Primary",
+  "accentColor": "#eca65b"
+}
