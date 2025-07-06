@@ -1,3 +1,4 @@
+
 [](Pydantic%20расширения%20(типы).md)[](Pydantic%20расширения%20(типы).md)
 [[python]]
 [[Подсказки типов python]]
@@ -151,7 +152,7 @@ class Some(BaseModel):
 # pydantic imports....
 
 class Some(BaseModel):
-    name: str
+	name: str
     password: str = Field(exclude=True, repr=True)
 
 

@@ -5,5 +5,9 @@
   "monospaceFontFamily": "",
   "translucency": false,
   "cssTheme": "Primary",
-  "accentColor": "#eca65b"
+  "accentColor": "#d7a61d",
+  "enabledCssSnippets": [
+    "library",
+    "quiery-sql"
+  ]
 }

@@ -1,5 +1,5 @@
 [[Linux UNIX]]
-[[Удобные утилиты Linux Unix Mac. Удобные ништяки, команды]]
+[[Удобные утилиты Linux Unix Mac. Удобные ништяки, команды. Тулзы linux]]
 
 1. Создаем ключи
 ```shell
@@ -33,7 +33,7 @@ gpg -d (decrypt) -o file.txt (выходной файл) file.txt.asc
 6. Экспортируем ключи и заносим на флешку
 ```shell
 gpg --export -a vexyzy@yandex.ru > public.gpg
-gpg --export-secret -a vexyzy@yandex.ru > private.gpg
+gpg --export-secret-key -a vexyzy@yandex.ru > private.gpg
 ```
 7. Импортируем ключи c флешки
 ```shell

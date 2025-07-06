@@ -1,0 +1,217 @@
+{
+  "edges": [
+    {
+      "fromNode": "0e03294680512a28",
+      "fromSide": "right",
+      "id": "4cc5c3f80a8c4e5b",
+      "styleAttributes": {
+      },
+      "toNode": "1ee283d6fa934449",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0e03294680512a28",
+      "fromSide": "left",
+      "id": "08b28c9c541abc81",
+      "styleAttributes": {
+      },
+      "toNode": "3bf5489bc93aac77",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0e03294680512a28",
+      "fromSide": "left",
+      "id": "9859f959d469791c",
+      "styleAttributes": {
+      },
+      "toNode": "fdf74e7b4f535c6f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3bf5489bc93aac77",
+      "fromSide": "left",
+      "id": "7bcdba2c2abd0d87",
+      "styleAttributes": {
+      },
+      "toNode": "791749f1aa367406",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3bf5489bc93aac77",
+      "fromSide": "left",
+      "id": "c06a8844f9c0b484",
+      "styleAttributes": {
+      },
+      "toNode": "eb911e141a877ac2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0e03294680512a28",
+      "fromSide": "bottom",
+      "id": "2ad9c4cab0da2587",
+      "styleAttributes": {
+      },
+      "toNode": "5dafe7e910a61698",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0e03294680512a28",
+      "fromSide": "right",
+      "id": "17e9aa2a95e85327",
+      "styleAttributes": {
+      },
+      "toNode": "9ab71878d0b36753",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0e03294680512a28",
+      "fromSide": "bottom",
+      "id": "b6082930de214397",
+      "styleAttributes": {
+      },
+      "toNode": "155d04b5aa3da860",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0e03294680512a28",
+      "fromSide": "right",
+      "id": "74da69fb70585e13",
+      "styleAttributes": {
+      },
+      "toNode": "22e1e609cd966215",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22e1e609cd966215",
+      "fromSide": "right",
+      "id": "0a58ef57b6639793",
+      "styleAttributes": {
+      },
+      "toNode": "9c944849e6115665",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "Nginx.md",
+      "height": 840,
+      "id": "0e03294680512a28",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 660,
+      "x": -440,
+      "y": -280
+    },
+    {
+      "file": "nginx.conf — главный файл конфигурации nginx.md",
+      "height": 700,
+      "id": "3bf5489bc93aac77",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 680,
+      "x": -1440,
+      "y": -520
+    },
+    {
+      "file": "nginx conf location (гибкое обратное проксирование по запросам).md",
+      "height": 1800,
+      "id": "eb911e141a877ac2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 880,
+      "x": -3280,
+      "y": -240
+    },
+    {
+      "file": "nginx настраиваем простое обратное проксирование на статические файлы (html, css, etc).md",
+      "height": 800,
+      "id": "fdf74e7b4f535c6f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 740,
+      "x": -1720,
+      "y": 520
+    },
+    {
+      "file": "nginx mime types.md",
+      "height": 1380,
+      "id": "791749f1aa367406",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 920,
+      "x": -2760,
+      "y": -2160
+    },
+    {
+      "file": "reverse proxy и proxy (проксирование и обратно проксирование).md",
+      "height": 700,
+      "id": "1ee283d6fa934449",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 680,
+      "x": 830,
+      "y": -720
+    },
+    {
+      "file": "nginx rewrite directive (меняем путь запроса на сервере).md",
+      "height": 1140,
+      "id": "5dafe7e910a61698",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 900,
+      "x": -980,
+      "y": 1440
+    },
+    {
+      "file": "nginx обратное проксирование запросов на бэкэнд  и настройка балансировки нагрузки (nginx balancer, backend reverse proxy).md",
+      "height": 1740,
+      "id": "22e1e609cd966215",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 810,
+      "x": 1200,
+      "y": 1020
+    },
+    {
+      "file": "nginx важные заголовки при проксировании.md",
+      "height": 760,
+      "id": "9ab71878d0b36753",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 860,
+      "x": 830,
+      "y": 140
+    },
+    {
+      "file": "Настройка FastAPI для корректной работы с NGINX.md",
+      "height": 1600,
+      "id": "155d04b5aa3da860",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 960,
+      "x": 40,
+      "y": 1840
+    },
+    {
+      "file": "Когда nginx автодополняет путь для proxy_pass, а когда нет.md",
+      "height": 900,
+      "id": "9c944849e6115665",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1020,
+      "x": 2380,
+      "y": 1180
+    }
+  ]
+}

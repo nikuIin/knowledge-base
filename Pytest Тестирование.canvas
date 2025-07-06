@@ -1,0 +1,284 @@
+{
+  "edges": [
+    {
+      "fromNode": "2539f8ecd2a029a2",
+      "fromSide": "right",
+      "id": "bc8d35dab65ae1b9",
+      "styleAttributes": {
+      },
+      "toNode": "9be77a7ef692617c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2539f8ecd2a029a2",
+      "fromSide": "left",
+      "id": "4cb71ab6d21bd0ad",
+      "styleAttributes": {
+      },
+      "toNode": "03ef527cb795fc33",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "2539f8ecd2a029a2",
+      "fromSide": "right",
+      "id": "6f7ff9771cf2b2ac",
+      "styleAttributes": {
+      },
+      "toNode": "94871f239a0d42bb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "03ef527cb795fc33",
+      "fromSide": "left",
+      "id": "13ed2053e77a3bf0",
+      "styleAttributes": {
+      },
+      "toNode": "aa9a17529ebcf9bf",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "aa9a17529ebcf9bf",
+      "fromSide": "bottom",
+      "id": "4cbf4bc5ceafd5f3",
+      "styleAttributes": {
+      },
+      "toNode": "9b128f0bc1a7a5ae",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ceb617e155687906",
+      "fromSide": "right",
+      "id": "958c3b19694af0f5",
+      "styleAttributes": {
+      },
+      "toNode": "9be77a7ef692617c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "94871f239a0d42bb",
+      "fromSide": "right",
+      "id": "986d151ad0999fd0",
+      "styleAttributes": {
+      },
+      "toNode": "e40972c32a3a8427",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2539f8ecd2a029a2",
+      "fromSide": "bottom",
+      "id": "20dfbacbafae94a7",
+      "styleAttributes": {
+      },
+      "toNode": "be706a768ce273ef",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2539f8ecd2a029a2",
+      "fromSide": "bottom",
+      "id": "ae3d0ee978245c59",
+      "styleAttributes": {
+      },
+      "toNode": "10c925b866ddd469",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9be77a7ef692617c",
+      "fromSide": "right",
+      "id": "c5edb0e1138593e2",
+      "styleAttributes": {
+      },
+      "toNode": "a2919ee85e25fb58",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e40972c32a3a8427",
+      "fromSide": "bottom",
+      "id": "044716813fdd7b66",
+      "styleAttributes": {
+      },
+      "toNode": "7ebec50f1dc24ea3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "94871f239a0d42bb",
+      "fromSide": "right",
+      "id": "8a6783d644038cc2",
+      "styleAttributes": {
+      },
+      "toNode": "7ebec50f1dc24ea3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "94871f239a0d42bb",
+      "fromSide": "bottom",
+      "id": "01600ea1b864df1e",
+      "styleAttributes": {
+      },
+      "toNode": "423b7f993c3db594",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9be77a7ef692617c",
+      "fromSide": "right",
+      "id": "f4f82b71a5bc97f7",
+      "styleAttributes": {
+      },
+      "toNode": "4a1461f8c25a8a76",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "Этапы тестирования.md",
+      "height": 940,
+      "id": "03ef527cb795fc33",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 600,
+      "x": -1360,
+      "y": -720
+    },
+    {
+      "file": "Мой план разработки с тестами.md",
+      "height": 400,
+      "id": "aa9a17529ebcf9bf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -2120,
+      "y": -720
+    },
+    {
+      "file": "Методология TDD (test driven development) Разработка через тестирование.md",
+      "height": 920,
+      "id": "9b128f0bc1a7a5ae",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 640,
+      "x": -2440,
+      "y": -160
+    },
+    {
+      "file": "pytest ожидание ошибки.md",
+      "height": 340,
+      "id": "10c925b866ddd469",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": -1240,
+      "y": 1080
+    },
+    {
+      "file": "Conftest – общая конфигурация для фикстур, общие фикстуры.md",
+      "height": 680,
+      "id": "e40972c32a3a8427",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 600,
+      "x": 1480,
+      "y": -320
+    },
+    {
+      "file": "pytest параметризованное тестирование (parametrize tests).md",
+      "height": 640,
+      "id": "be706a768ce273ef",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -440,
+      "y": 1200
+    },
+    {
+      "file": "Фикстуры fixture.md",
+      "height": 1020,
+      "id": "94871f239a0d42bb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": 560,
+      "y": -150
+    },
+    {
+      "file": "pytest настройка фикстуры по работе с БД.md",
+      "height": 440,
+      "id": "7ebec50f1dc24ea3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 1720,
+      "y": 640
+    },
+    {
+      "file": "pytest настройка фикстуры по работе с БД.md",
+      "height": 980,
+      "id": "423b7f993c3db594",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1100,
+      "x": 740,
+      "y": 1140
+    },
+    {
+      "file": "Маркирование тестов. Test markers, marks.md",
+      "height": 480,
+      "id": "ceb617e155687906",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 860,
+      "x": -480,
+      "y": -1640
+    },
+    {
+      "file": "Конфигурация pytest в проекте.md",
+      "height": 720,
+      "id": "9be77a7ef692617c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1180,
+      "x": 20,
+      "y": -1040
+    },
+    {
+      "file": "pytest-dotenv подмена файла переменных окружения и проверка режимы работы приложения (тестовое, прод, раработка).md",
+      "height": 920,
+      "id": "a2919ee85e25fb58",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1030,
+      "x": 1440,
+      "y": -2200
+    },
+    {
+      "file": "Тестирование. Pytest.md",
+      "height": 260,
+      "id": "2539f8ecd2a029a2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -440,
+      "y": -150
+    },
+    {
+      "file": "pytest Выводим логи приложения в тестах.md",
+      "height": 720,
+      "id": "4a1461f8c25a8a76",
+      "type": "file",
+      "width": 620,
+      "x": 1880,
+      "y": -1160
+    }
+  ]
+}

@@ -133,7 +133,7 @@ class Square extends Shape {
 ![[Pasted image 20240626073017.png]]
 
 Нарушение ISP:
-```
+```java
 abstract class Shape {  
     public abstract double area();  
 }  
@@ -155,7 +155,7 @@ class Square extends Shape {
 }
 ```
 Правильно:
-```
+```java
 interface Openable {  
     void open();  
 }  

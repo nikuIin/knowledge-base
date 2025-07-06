@@ -7,8 +7,7 @@
 ```python
 from fastapi import APIRouter
 
-router = APIRouter(prefix='/some_new') # префикс распространятеся и ставится перед всеми 
-					                       # ручками данного роутера
+router = APIRouter(prefix='/some_new') # префикс распространятеся и ставится перед всеми ручками данного роутера
 
 @router.get('/value/{value_id}')
 async def get_value(value_id: int):

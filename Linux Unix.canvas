@@ -80,22 +80,18 @@
       },
       "toNode": "25943c3614e8f7aa",
       "toSide": "left"
+    },
+    {
+      "fromNode": "990dc5ae9d1a5641",
+      "fromSide": "left",
+      "id": "e07f3a78db399760",
+      "toNode": "a0de37e78d489ada",
+      "toSide": "right"
     }
   ],
   "nodes": [
     {
-      "file": "Linux UNIX.md",
-      "height": 240,
-      "id": "990dc5ae9d1a5641",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -260,
-      "y": -300
-    },
-    {
-      "file": "Удобные утилиты Linux Unix Mac. Удобные ништяки, команды.md",
+      "file": "Удобные утилиты Linux Unix Mac. Удобные ништяки, команды. Тулзы linux.md",
       "height": 700,
       "id": "b2166b2bdb283405",
       "styleAttributes": {
@@ -139,17 +135,6 @@
       "y": -815
     },
     {
-      "file": "sudo echo >>.md",
-      "height": 400,
-      "id": "a32cafa635772788",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 580,
-      "x": -1140,
-      "y": -700
-    },
-    {
       "file": "shell rar (linux, mac).md",
       "height": 400,
       "id": "ec41fea7b5418630",
@@ -173,14 +158,36 @@
     },
     {
       "file": "ghosty ssh решение проблемы.md",
-      "height": 280,
+      "height": 400,
       "id": "5670320685d1702d",
       "styleAttributes": {
       },
       "type": "file",
       "width": 660,
-      "x": -1390,
-      "y": -240
+      "x": -1940,
+      "y": -260
+    },
+    {
+      "file": "sudo echo >>.md",
+      "height": 400,
+      "id": "a32cafa635772788",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": -1940,
+      "y": -730
+    },
+    {
+      "file": "Переносим конфиг nvim на другой сервер.md",
+      "height": 400,
+      "id": "a0de37e78d489ada",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 583,
+      "x": -1943,
+      "y": -1200
     },
     {
       "file": "Пример .env (переменные окружения).md",
@@ -190,8 +197,19 @@
       },
       "type": "file",
       "width": 640,
-      "x": -1280,
-      "y": 140
+      "x": -1920,
+      "y": 240
+    },
+    {
+      "file": "Linux UNIX.md",
+      "height": 160,
+      "id": "990dc5ae9d1a5641",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 590,
+      "x": -640,
+      "y": -420
     }
   ]
 }

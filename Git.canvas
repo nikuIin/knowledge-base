@@ -1,0 +1,608 @@
+{
+  "edges": [
+    {
+      "fromNode": "ad2a22822905b58c",
+      "fromSide": "right",
+      "id": "81afff994d6f4473",
+      "toNode": "6a373e44c19e8e05",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad2a22822905b58c",
+      "fromSide": "left",
+      "id": "d30fd6dd9f0cf652",
+      "toNode": "39fbb7681aa70f78",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "left",
+      "id": "40c7be613f88b2e3",
+      "toNode": "63e8552d87a710e7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "bottom",
+      "id": "2179a117374a9c21",
+      "toNode": "099e918c83c9de0e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ad2a22822905b58c",
+      "fromSide": "bottom",
+      "id": "f9ce6f5e6b4012a2",
+      "toNode": "7cf9076016b62cb7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "099e918c83c9de0e",
+      "fromSide": "left",
+      "id": "a0a7808643e38064",
+      "toNode": "9b01adc969bc6146",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "099e918c83c9de0e",
+      "fromSide": "left",
+      "id": "d156a070764ffc1e",
+      "toNode": "64fed2e94c0b2855",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "top",
+      "id": "7e6a91689c38f106",
+      "toNode": "97650ecc62f3be3a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "top",
+      "id": "2153947a255a7937",
+      "toNode": "a3b181ec20ae9a40",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "top",
+      "id": "7efdaf9da0660190",
+      "toNode": "ef5d5037741b30b6",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "top",
+      "id": "cd88d87d9061857e",
+      "toNode": "ecf7f6318cd67194",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "top",
+      "id": "1d5a2f0bc06dcaec",
+      "toNode": "a2108acc2db6fe64",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a3b181ec20ae9a40",
+      "fromSide": "left",
+      "id": "9b8201fee9f9f513",
+      "toNode": "099e918c83c9de0e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "099e918c83c9de0e",
+      "fromSide": "left",
+      "id": "5dee7c98de70757d",
+      "toNode": "7542169a18d45fe2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "bottom",
+      "id": "5298ba2a83284193",
+      "toNode": "60daeb31a636d4b0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "bottom",
+      "id": "aed7368a526556ff",
+      "toNode": "10e9bbd38621b81e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "10e9bbd38621b81e",
+      "fromSide": "bottom",
+      "id": "08c152bfbe9615df",
+      "toNode": "175300dbe846d2ce",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "left",
+      "id": "11ec163d2197a0e9",
+      "toNode": "680883373113ee11",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "10e9bbd38621b81e",
+      "fromSide": "bottom",
+      "id": "178e064815b3fdde",
+      "toNode": "f61008db01ad1d19",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "10e9bbd38621b81e",
+      "fromSide": "bottom",
+      "id": "8d84179b25ad68d1",
+      "toNode": "a16fb1b3a21c899a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a16fb1b3a21c899a",
+      "fromSide": "bottom",
+      "id": "91cfe2d0386780b8",
+      "toNode": "4d79fdc251e0de0f",
+      "toSide": "top"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "175300dbe846d2ce",
+      "fromSide": "right",
+      "id": "e62f2d25e14ccac4",
+      "toNode": "4d79fdc251e0de0f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "left",
+      "id": "dea28ecbe6ffff86",
+      "toNode": "5caaeccab4ef231f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "top",
+      "id": "1ba6564dcd7f25f4",
+      "toNode": "e0da740ca846a833",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "97650ecc62f3be3a",
+      "fromSide": "top",
+      "id": "9f0f1120b529a108",
+      "toNode": "3b9c68bedbde19f4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3b9c68bedbde19f4",
+      "fromSide": "right",
+      "id": "c0670c28c2b5785e",
+      "toNode": "345135a9388addd5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "bottom",
+      "id": "abacec9b8b94c59f",
+      "toNode": "0007b71e3db54eb4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3b9c68bedbde19f4",
+      "fromSide": "left",
+      "id": "2d4105401eedf5c7",
+      "toNode": "041992f1148c85fc",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "041992f1148c85fc",
+      "fromSide": "left",
+      "id": "553f8faa8b25f9c7",
+      "toNode": "bab1d113d642a4aa",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "041992f1148c85fc",
+      "fromSide": "left",
+      "id": "363c55507948089d",
+      "toNode": "1cf56c208715ea81",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "ad2a22822905b58c",
+      "fromSide": "right",
+      "id": "8a41611bf301a23b",
+      "toNode": "416a9f83c454d9ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "416a9f83c454d9ee",
+      "fromSide": "right",
+      "id": "6d739b937cf325db",
+      "toNode": "b42d274e857a2f01",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "39fbb7681aa70f78",
+      "fromSide": "right",
+      "id": "791bf18160787b32",
+      "toNode": "37576be0b7fe1694",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "37576be0b7fe1694",
+      "fromSide": "right",
+      "id": "90276ecd5760a220",
+      "toNode": "518b4f4548ec9fca",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "Версионность git (коммиты).md",
+      "height": 138,
+      "id": "39fbb7681aa70f78",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -952,
+      "y": -565
+    },
+    {
+      "file": "Git (конфиг, алиасы). git alias.md",
+      "height": 458,
+      "id": "ad2a22822905b58c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 644,
+      "x": 275,
+      "y": -885
+    },
+    {
+      "file": "git diff. Смотрим разницу в git.md",
+      "height": 720,
+      "id": "a3b181ec20ae9a40",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 780,
+      "x": -2950,
+      "y": -2080
+    },
+    {
+      "file": "Ветки в git.md",
+      "height": 840,
+      "id": "099e918c83c9de0e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 802,
+      "x": -2841,
+      "y": 480
+    },
+    {
+      "file": "Удаление веток в git (remove branch, branches).md",
+      "height": 760,
+      "id": "64fed2e94c0b2855",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1000,
+      "x": -4560,
+      "y": 1520
+    },
+    {
+      "file": "Слиянение веток git (merge).md",
+      "height": 1347,
+      "id": "9b01adc969bc6146",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 712,
+      "x": -4560,
+      "y": -720
+    },
+    {
+      "file": "Переименовываем ветки. Rename branches git.md",
+      "height": 400,
+      "id": "7542169a18d45fe2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1080,
+      "x": -4744,
+      "y": 800
+    },
+    {
+      "file": "Удаленная работа с репозиторием git.md",
+      "height": 320,
+      "id": "10e9bbd38621b81e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 952,
+      "x": -1704,
+      "y": 1520
+    },
+    {
+      "file": "Коммиты (commit) ссылаются друг на друга.md",
+      "height": 377,
+      "id": "63e8552d87a710e7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 518,
+      "x": -2699,
+      "y": -1120
+    },
+    {
+      "file": "Отправляем изменения в репозиторий git push.md",
+      "height": 702,
+      "id": "175300dbe846d2ce",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 688,
+      "x": -2880,
+      "y": 2858
+    },
+    {
+      "file": "git fetch. Подгружаем обновления с удаленного репозитория безопасно.md",
+      "height": 800,
+      "id": "4d79fdc251e0de0f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 732,
+      "x": -1880,
+      "y": 3960
+    },
+    {
+      "file": "git pull. Обновляем локальный репозиторий.md",
+      "height": 702,
+      "id": "a16fb1b3a21c899a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 739,
+      "x": -1960,
+      "y": 2858
+    },
+    {
+      "file": "git reset, удаляем коммиты.md",
+      "height": 316,
+      "id": "680883373113ee11",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 822,
+      "x": -2861,
+      "y": -654
+    },
+    {
+      "file": "git revert, отменяем коммиты с помощью обратных действий (создаем антикомит).md",
+      "height": 342,
+      "id": "5caaeccab4ef231f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 901,
+      "x": -2861,
+      "y": -222
+    },
+    {
+      "file": "Расширенная информация о коммандах git (verbose) -v -vv.md",
+      "height": 387,
+      "id": "7cf9076016b62cb7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": 1160,
+      "y": -427
+    },
+    {
+      "file": "git restore, обратное git add. Откатываем изменения в git.md",
+      "height": 720,
+      "id": "ef5d5037741b30b6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 747,
+      "x": 440,
+      "y": -2000
+    },
+    {
+      "file": "git mv.md",
+      "height": 400,
+      "id": "a2108acc2db6fe64",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 609,
+      "x": 205,
+      "y": -2720
+    },
+    {
+      "file": "Удаления в git. git rm.md",
+      "height": 400,
+      "id": "ecf7f6318cd67194",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 539,
+      "x": -520,
+      "y": -2680
+    },
+    {
+      "file": "git log Как работает и его кастомитизация.md",
+      "height": 720,
+      "id": "97650ecc62f3be3a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 728,
+      "x": -2040,
+      "y": -2200
+    },
+    {
+      "file": "Git blame. Смотрим информацию о коммитах построчно.md",
+      "height": 400,
+      "id": "e0da740ca846a833",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 517,
+      "x": -1177,
+      "y": -2481
+    },
+    {
+      "file": "Поиск по коммитам git (git log -S word, -p, -G, --word-diff).md",
+      "height": 1040,
+      "id": "3b9c68bedbde19f4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -2000,
+      "y": -3560
+    },
+    {
+      "file": "Поиск по названиям коммитов. git log --grep.md",
+      "height": 369,
+      "id": "345135a9388addd5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -976,
+      "y": -3729
+    },
+    {
+      "file": "Ищем «плохой» коммит. Бинарный поиск. git bisect.md",
+      "height": 1280,
+      "id": "041992f1148c85fc",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 593,
+      "x": -3220,
+      "y": -4000
+    },
+    {
+      "file": "Автоматизация git bisect.md",
+      "height": 740,
+      "id": "bab1d113d642a4aa",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 592,
+      "x": -4080,
+      "y": -4300
+    },
+    {
+      "file": "bisect советы от grok.md",
+      "height": 933,
+      "id": "1cf56c208715ea81",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 707,
+      "x": -4600,
+      "y": -3413
+    },
+    {
+      "file": "Устройство git под коробкой.md",
+      "height": 547,
+      "id": "6a373e44c19e8e05",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 657,
+      "x": 1412,
+      "y": -1913
+    },
+    {
+      "file": "gitignore.md",
+      "height": 787,
+      "id": "416a9f83c454d9ee",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 662,
+      "x": 2200,
+      "y": -1214
+    },
+    {
+      "file": "HEAD в git.md",
+      "height": 765,
+      "id": "60daeb31a636d4b0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 790,
+      "x": -462,
+      "y": 1075
+    },
+    {
+      "file": "Перемещаемся по коммитам. git checkout.md",
+      "height": 765,
+      "id": "0007b71e3db54eb4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 588,
+      "x": 440,
+      "y": 1075
+    },
+    {
+      "file": "global gitignore. Глобальное игнорирование.md",
+      "height": 620,
+      "id": "b42d274e857a2f01",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 613,
+      "x": 3187,
+      "y": -1440
+    },
+    {
+      "file": "git Пишем коммиты правильно.md",
+      "height": 840,
+      "id": "37576be0b7fe1694",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 819,
+      "x": 1250,
+      "y": 160
+    },
+    {
+      "file": "git Называем ветки правильно branch naming.md",
+      "height": 760,
+      "id": "518b4f4548ec9fca",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 640,
+      "x": 2320,
+      "y": 40
+    },
+    {
+      "file": "pull request, запрос на слияние.md",
+      "height": 753,
+      "id": "f61008db01ad1d19",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 746,
+      "x": -520,
+      "y": 2280
+    }
+  ]
+}

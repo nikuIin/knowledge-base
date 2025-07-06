@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Добавлена в базу": "date",
+    "Категории": "multitext",
+    "Категория запроса": "text",
+    "Начал читать": "date",
+    "Страниц": "text",
+    "Закончил читать": "date"
+  }
+}

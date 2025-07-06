@@ -62,11 +62,74 @@
       },
       "toNode": "0072ffe426c7d546",
       "toSide": "bottom"
+    },
+    {
+      "fromNode": "6b2926925703b743",
+      "fromSide": "top",
+      "id": "3e642b3c502ceff9",
+      "toNode": "1b83bbe67f204a4d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6b2926925703b743",
+      "fromSide": "right",
+      "id": "3faef6ad79fec085",
+      "styleAttributes": {
+      },
+      "toNode": "15215dba1916a3d6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "15215dba1916a3d6",
+      "fromSide": "right",
+      "id": "7c4b4c5ab1b8c381",
+      "styleAttributes": {
+      },
+      "toNode": "9e52930c55675208",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9e52930c55675208",
+      "fromSide": "right",
+      "id": "dcbfa4eeafc5bc32",
+      "styleAttributes": {
+      },
+      "toNode": "4743e9dac87f029f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9e52930c55675208",
+      "fromSide": "right",
+      "id": "a8b1a82068fd199a",
+      "styleAttributes": {
+      },
+      "toNode": "bcd06690d5d7078b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6b2926925703b743",
+      "fromSide": "bottom",
+      "id": "8773b0df639d67cc",
+      "styleAttributes": {
+      },
+      "toNode": "ab9abe662a2363dc",
+      "toSide": "top"
     }
   ],
   "nodes": [
     {
-      "file": "postgres/соединение таблиц (внутри postgreSQL).md",
+      "file": "путь к стандартному хранению данных в postgresql.md",
+      "height": 400,
+      "id": "1b83bbe67f204a4d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -163,
+      "y": -1168
+    },
+    {
+      "file": "postgres/соединение join таблиц (внутри postgreSQL).md",
       "height": 400,
       "id": "d1641f69b569010b",
       "styleAttributes": {
@@ -198,17 +261,6 @@
       "y": -240
     },
     {
-      "file": "postgres/начало работы с postgreSQL.md",
-      "height": 400,
-      "id": "caf66f09d8e3e57d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1600,
-      "y": -920
-    },
-    {
       "file": "postgres/postgres in python.md",
       "height": 400,
       "id": "42575dc927ed38ca",
@@ -220,17 +272,6 @@
       "y": 260
     },
     {
-      "file": "postgres/link format for connections.md",
-      "height": 360,
-      "id": "e51accff63b1647c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1640,
-      "y": -20
-    },
-    {
       "file": "postgres/limit and group by rollup, cube or grouping sets.md",
       "height": 520,
       "id": "c9dfc1dff7e8f977",
@@ -240,17 +281,6 @@
       "width": 400,
       "x": -1600,
       "y": 720
-    },
-    {
-      "file": "postgres/Start with postgres  Download postgres Установка.md",
-      "height": 880,
-      "id": "0e812e3a1a2df6b2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 620,
-      "x": 680,
-      "y": -1000
     },
     {
       "file": "postgres/operators postgresql.md",
@@ -319,6 +349,83 @@
       "y": -1000
     },
     {
+      "file": "postgres/Start with postgres  Download postgres Установка.md",
+      "height": 880,
+      "id": "0e812e3a1a2df6b2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 680,
+      "y": -1620
+    },
+    {
+      "file": "postgres/начало работы с postgreSQL.md",
+      "height": 400,
+      "id": "caf66f09d8e3e57d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1640,
+      "y": -1680
+    },
+    {
+      "file": "postgres/link format for connections.md",
+      "height": 360,
+      "id": "e51accff63b1647c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2160,
+      "y": 720
+    },
+    {
+      "file": "Запросы PostgreSQL.md",
+      "height": 420,
+      "id": "15215dba1916a3d6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": 940,
+      "y": -600
+    },
+    {
+      "file": "postgreSQL Запросы категории «оптимизация».md",
+      "height": 400,
+      "id": "9e52930c55675208",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 440,
+      "x": 1840,
+      "y": -880
+    },
+    {
+      "file": "Запрос на уточние статистики по данным stat vacuum postgreSQL (уточняем статистику).md",
+      "height": 400,
+      "id": "4743e9dac87f029f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 2460,
+      "y": -1420
+    },
+    {
+      "file": "postgreSQL Смотрим какие индексы используется в кластере. Запрос на статистику по использованию индексов.md",
+      "height": 400,
+      "id": "bcd06690d5d7078b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 2460,
+      "y": -960
+    },
+    {
       "file": "tablespace.md",
       "height": 560,
       "id": "0072ffe426c7d546",
@@ -327,7 +434,16 @@
       "type": "file",
       "width": 510,
       "x": -1680,
-      "y": -800
+      "y": -880
+    },
+    {
+      "file": "Мультиязычность в базе данных. Делаем поддержку нескольких языков в базе данных..md",
+      "height": 400,
+      "id": "ab9abe662a2363dc",
+      "type": "file",
+      "width": 560,
+      "x": -40,
+      "y": 360
     }
   ]
 }

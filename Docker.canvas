@@ -1,0 +1,77 @@
+{
+  "edges": [
+    {
+      "fromNode": "f6d1ab4717c484f3",
+      "fromSide": "right",
+      "id": "4d7e088bd5777680",
+      "styleAttributes": {
+      },
+      "toNode": "487a8d39e8c47a79",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "487a8d39e8c47a79",
+      "fromSide": "bottom",
+      "id": "915d2390cbffdccd",
+      "styleAttributes": {
+      },
+      "toNode": "567ecf6f415f1d42",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f6d1ab4717c484f3",
+      "fromSide": "left",
+      "id": "2723cd4f5b5abffb",
+      "styleAttributes": {
+      },
+      "toNode": "baf0bb2ada0ef419",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "docker.md",
+      "height": 260,
+      "id": "f6d1ab4717c484f3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": -240
+    },
+    {
+      "file": "docker-compose.yaml.md",
+      "height": 420,
+      "id": "487a8d39e8c47a79",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 520,
+      "x": 380,
+      "y": -560
+    },
+    {
+      "file": "docker-compose команды (commands).md",
+      "height": 940,
+      "id": "567ecf6f415f1d42",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 700,
+      "x": 620,
+      "y": 20
+    },
+    {
+      "file": "dockerignore example.md",
+      "height": 340,
+      "id": "baf0bb2ada0ef419",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -940,
+      "y": -540
+    }
+  ]
+}

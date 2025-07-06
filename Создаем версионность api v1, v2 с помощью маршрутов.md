@@ -27,8 +27,8 @@ routers = APIRouter()
 routers_list = [auth_router, product_router]
 
 for router in routers_list:
-    router.tags.append("v1")
-    - [ ] routers.include_router(router, prefix="/v1")
+    # router.tags.append("v1")
+    routers.include_router(router, prefix="/v1")
 ```
 
 `app` принимает и включает в приложение объект `routers`

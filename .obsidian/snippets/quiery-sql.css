@@ -1,0 +1,50 @@
+/* Сетка для карточек запросов */
+.queries-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem 0;
+}
+
+/* Стили для одной карточки запроса */
+.query-card {
+    background-color: var(--background-secondary);
+    border-radius: 8px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--background-modifier-border);
+    transition: all 0.2s ease-in-out;
+}
+
+.query-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Заголовок-ссылка */
+.query-card .query-title {
+    font-size: 1.1em;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--text-normal);
+}
+
+/* Мета-информация (дата добавления) */
+.query-card .query-meta {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    margin: 0.5rem 0;
+    flex-grow: 1;
+    /* Заставляет этот блок расти, отодвигая категорию вниз */
+}
+
+/* Стили для плашки категории (общие) */
+.query-card .category {
+    font-size: 0.75em;
+    padding: 3px 8px;
+    border-radius: 5px;
+    align-self: flex-start;
+    /* Располагаем слева */
+    font-weight: 500;
+}
