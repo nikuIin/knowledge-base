@@ -1,5 +1,5 @@
 [[Docker.canvas|Docker]]
-[[docker-compose.yaml]]
+[[docker-compose.yml]]
 
 - Билд проекта и запуск проекта (`-d` — запуск в `detach` режиме):
 

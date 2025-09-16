@@ -1,4 +1,3 @@
-l
 [[Linux UNIX]]
 
 Такс:
@@ -46,7 +45,17 @@ cat path-to-read-file | speedread -w 300 # ~300 слов в минуту
 ```
 
 * *git status* = *st* = *git st*
-* *git lg*  = *git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --branches*
+
+10. Переводим `JSON` в удобочитаемый формат — `jq`
+
+```bash
+cat some.json | jq
+
+# {
+#	"key1": "value",
+#	"key2": "value2"
+# }
+```
 
 А это с комментария курса
 ---

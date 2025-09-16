@@ -1,5 +1,5 @@
 [[docker]]
-[[docker-compose.yaml]]
+[[docker-compose.yml]]
 
 ```yml
 services:

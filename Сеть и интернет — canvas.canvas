@@ -1,0 +1,28 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "FastAPI.canvas",
+      "height": 420,
+      "id": "b48d03f033aa72fc",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1080,
+      "y": -580
+    },
+    {
+      "file": "Идемпотентность зарпосов.md",
+      "height": 420,
+      "id": "38ac863ca75f8108",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 520,
+      "x": -640,
+      "y": -580
+    }
+  ]
+}

@@ -121,7 +121,7 @@ ENTRYPOINT ["/app/entrypoint.sh"]
 ```
 
 4) Строим `nginx` конфигурацию
-```nginx.conf
+```nginx
 # set the worker proccesses quantity equal to your CPU cores quantity
 worker_processes auto;
 

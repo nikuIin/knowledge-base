@@ -134,6 +134,133 @@
       },
       "toNode": "021d0e8aafc705c8",
       "toSide": "top"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "right",
+      "id": "e3d6b8a4ba3a29b5",
+      "styleAttributes": {
+      },
+      "toNode": "a54488dd28a54257",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a54488dd28a54257",
+      "fromSide": "right",
+      "id": "0ced5de326a80f28",
+      "styleAttributes": {
+      },
+      "toNode": "d51ed4f633fb19a4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d51ed4f633fb19a4",
+      "fromSide": "right",
+      "id": "8a05199b54592102",
+      "styleAttributes": {
+      },
+      "toNode": "b48274aac6278aa0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1644bdfc247d5487",
+      "fromSide": "top",
+      "id": "07422d19f21b2e55",
+      "styleAttributes": {
+      },
+      "toNode": "c57897f99e85e91c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "d51ed4f633fb19a4",
+      "fromSide": "bottom",
+      "id": "54c3149d0723fde0",
+      "styleAttributes": {
+      },
+      "toNode": "f9c071d3d6c39636",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "right",
+      "id": "992f5daa69e8acb9",
+      "styleAttributes": {
+      },
+      "toNode": "a0a4f6d4a14fc1c9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a0a4f6d4a14fc1c9",
+      "fromSide": "right",
+      "id": "64e3b4d6f1c2a177",
+      "styleAttributes": {
+      },
+      "toNode": "78bfc71af9251386",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a0a4f6d4a14fc1c9",
+      "fromSide": "right",
+      "id": "cfef8e8a42930a5f",
+      "styleAttributes": {
+      },
+      "toNode": "5e978a3eeb6b60b1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "left",
+      "id": "d4f4a728c30f3e50",
+      "styleAttributes": {
+      },
+      "toNode": "4ba8292cb94bf528",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "4ba8292cb94bf528",
+      "fromSide": "left",
+      "id": "82b355f1a2cd6703",
+      "styleAttributes": {
+      },
+      "toNode": "b1a9d96cc4876aad",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9ced1639b8a1f67a",
+      "fromSide": "bottom",
+      "id": "2626db466bcdaa05",
+      "styleAttributes": {
+      },
+      "toNode": "96f544d5bd9467a4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "567238fc15b20cd4",
+      "fromSide": "top",
+      "id": "4dac6acc4c358d4f",
+      "styleAttributes": {
+      },
+      "toNode": "60488b9fdc27157f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "0779e24bc34fbbc2",
+      "fromSide": "right",
+      "id": "4d4fd3d585990ae3",
+      "styleAttributes": {
+      },
+      "toNode": "3b02e09576b7b33f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3b02e09576b7b33f",
+      "fromSide": "right",
+      "id": "a1ee66b118c08f82",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "60488b9fdc27157f",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -160,83 +287,6 @@
       "y": -1160
     },
     {
-      "file": "env frontend переменные окружения в фронтенде.md",
-      "height": 1120,
-      "id": "183e848f5c546ccf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 760,
-      "x": 880,
-      "y": -930
-    },
-    {
-      "file": "CSS.md",
-      "height": 160,
-      "id": "d1d0567f6c566383",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1380,
-      "y": 400
-    },
-    {
-      "file": "tailwind.md",
-      "height": 220,
-      "id": "567238fc15b20cd4",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2020,
-      "y": 100
-    },
-    {
-      "file": "Create button (frontend) создаем кнопку.md",
-      "height": 1200,
-      "id": "07b6467145fa3648",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1120,
-      "x": 3140,
-      "y": 680
-    },
-    {
-      "file": "Описываем элементы (виджитеы, ui-элементы, css элементы, html) правильно.md",
-      "height": 1400,
-      "id": "f4ef694411d3db6d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 960,
-      "x": 2040,
-      "y": 480
-    },
-    {
-      "file": "Создаем запросы на ручки бэкэнда на фронтеде правильно. Routes to backend from frontend.md",
-      "height": 1920,
-      "id": "c9ca98082e65ebf3",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1120,
-      "x": -1280,
-      "y": 400
-    },
-    {
-      "file": "Кастомные ошибки, custom error (Frontend, React, TypeScript (TS)), exceptions.md",
-      "height": 555,
-      "id": "1644bdfc247d5487",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 940,
-      "x": -1480,
-      "y": -1077
-    },
-    {
       "file": "Хороший тон обработки ошибок на фронтенде.md",
       "height": 280,
       "id": "53c179b7ae41cae5",
@@ -248,6 +298,171 @@
       "y": -1070
     },
     {
+      "file": "LocalStorage.md",
+      "height": 578,
+      "id": "6e4e733ec155c39b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 780,
+      "x": -2460,
+      "y": -700
+    },
+    {
+      "file": "CSS.md",
+      "height": 160,
+      "id": "d1d0567f6c566383",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1380,
+      "y": 160
+    },
+    {
+      "file": "Архитектура frontend приложения.md",
+      "height": 240,
+      "id": "a54488dd28a54257",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1740,
+      "y": 2060
+    },
+    {
+      "file": "Feature-Sliced Design — архитектура frontend приложения.md",
+      "height": 1000,
+      "id": "d51ed4f633fb19a4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 880,
+      "x": 2500,
+      "y": 1980
+    },
+    {
+      "file": "Описываем элементы (виджитеы, ui-элементы, css элементы, html) правильно.md",
+      "height": 1400,
+      "id": "f4ef694411d3db6d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 960,
+      "x": 2140,
+      "y": 420
+    },
+    {
+      "file": "Create button (frontend) создаем кнопку.md",
+      "height": 1200,
+      "id": "07b6467145fa3648",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1120,
+      "x": 3360,
+      "y": -120
+    },
+    {
+      "file": "session storage.md",
+      "height": 400,
+      "id": "679833ad22d17256",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -2460,
+      "y": 140
+    },
+    {
+      "file": "Prototype error (typescript кастомные ошибки).md",
+      "height": 620,
+      "id": "c57897f99e85e91c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 820,
+      "x": -980,
+      "y": -2160
+    },
+    {
+      "file": "Кастомные ошибки, custom error (Frontend, React, TypeScript (TS)), exceptions.md",
+      "height": 637,
+      "id": "1644bdfc247d5487",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 940,
+      "x": -1470,
+      "y": -1337
+    },
+    {
+      "file": "FSD Entity.md",
+      "height": 250,
+      "id": "b48274aac6278aa0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 440,
+      "x": 3880,
+      "y": 1880
+    },
+    {
+      "file": "Правильная работа, настройка импортов в FSD (imports Feature-Sliced Design).md",
+      "height": 1420,
+      "id": "f9c071d3d6c39636",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": 3340,
+      "y": 3220
+    },
+    {
+      "file": "env frontend переменные окружения в фронтенде.md",
+      "height": 1120,
+      "id": "183e848f5c546ccf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": 1080,
+      "y": -2180
+    },
+    {
+      "file": "types/TypeScript.md",
+      "height": 80,
+      "id": "a0a4f6d4a14fc1c9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 240,
+      "x": 4000,
+      "y": -2120
+    },
+    {
+      "file": "Spread operatop (... typescript). Спред оператор, объединяем объекты.md",
+      "height": 1480,
+      "id": "78bfc71af9251386",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1240,
+      "x": 4890,
+      "y": -3330
+    },
+    {
+      "file": "Records typescript.md",
+      "height": 860,
+      "id": "5e978a3eeb6b60b1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 880,
+      "x": 4890,
+      "y": -1800
+    },
+    {
       "file": "Сохраняем данные на фронтедне (frontend) Хранилища данных на фронтенде.md",
       "height": 420,
       "id": "8a28af266d12321e",
@@ -255,8 +470,19 @@
       },
       "type": "file",
       "width": 400,
-      "x": -1000,
-      "y": -280
+      "x": -1020,
+      "y": -440
+    },
+    {
+      "file": "context и provider (контекст и провайдер) react.md",
+      "height": 1720,
+      "id": "4ba8292cb94bf528",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -2540,
+      "y": 700
     },
     {
       "file": "Ставим ограничения на ожидание ответа сервера на фронтенде (frontend) асинхронно.md",
@@ -266,8 +492,19 @@
       },
       "type": "file",
       "width": 980,
+      "x": -1960,
+      "y": 2680
+    },
+    {
+      "file": "Создаем запросы на ручки бэкэнда на фронтеде правильно. Routes to backend from frontend.md",
+      "height": 1900,
+      "id": "c9ca98082e65ebf3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1120,
       "x": -1400,
-      "y": 2520
+      "y": 480
     },
     {
       "file": "Hooks хуки в frontend.md",
@@ -278,41 +515,96 @@
       },
       "type": "file",
       "width": 560,
-      "x": 40,
-      "y": 720
+      "x": 20,
+      "y": 680
+    },
+    {
+      "file": "useEffect.md",
+      "height": 1120,
+      "id": "96f544d5bd9467a4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 960,
+      "x": -760,
+      "y": 2600
+    },
+    {
+      "file": "Зачем делать кастомные провайдеры к контексту (пишем свой provider к context).md",
+      "height": 720,
+      "id": "b1a9d96cc4876aad",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 760,
+      "x": -4160,
+      "y": 700
+    },
+    {
+      "file": "Смена тем в tailwind css. Работа с темами..md",
+      "height": 400,
+      "id": "60488b9fdc27157f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2900,
+      "y": -1060
+    },
+    {
+      "file": "tailwind.md",
+      "height": 220,
+      "id": "567238fc15b20cd4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2400,
+      "y": -60
+    },
+    {
+      "file": "Theme switcher (кастомный theme switcher).md",
+      "height": 500,
+      "id": "3b02e09576b7b33f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 920,
+      "x": 1720,
+      "y": -760
+    },
+    {
+      "file": "Файл store или selector (DEPRECATED).md",
+      "height": 1100,
+      "id": "c510cdf308bdddd6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": 5400,
+      "y": 780
     },
     {
       "file": "useState.md",
-      "height": 520,
+      "height": 980,
       "id": "021d0e8aafc705c8",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 880,
-      "x": 40,
-      "y": 1440
+      "width": 1180,
+      "x": 300,
+      "y": 1400
     },
     {
-      "file": "session storage.md",
-      "height": 400,
-      "id": "679833ad22d17256",
+      "file": "Redux.md",
+      "height": 1600,
+      "id": "a009bcf5807c0fd0",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 400,
-      "x": -1840,
-      "y": -40
-    },
-    {
-      "file": "LocalStorage.md",
-      "height": 400,
-      "id": "6e4e733ec155c39b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1880,
-      "y": -520
+      "width": 1200,
+      "x": 740,
+      "y": 2680
     }
   ]
 }

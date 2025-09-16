@@ -114,6 +114,15 @@
       },
       "toNode": "ab9abe662a2363dc",
       "toSide": "top"
+    },
+    {
+      "fromNode": "e51accff63b1647c",
+      "fromSide": "right",
+      "id": "b7ac2b2d26daf39a",
+      "styleAttributes": {
+      },
+      "toNode": "7ded56b6b5b72180",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -349,17 +358,6 @@
       "y": -1000
     },
     {
-      "file": "postgres/Start with postgres  Download postgres Установка.md",
-      "height": 880,
-      "id": "0e812e3a1a2df6b2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 620,
-      "x": 680,
-      "y": -1620
-    },
-    {
       "file": "postgres/начало работы с postgreSQL.md",
       "height": 400,
       "id": "caf66f09d8e3e57d",
@@ -369,17 +367,6 @@
       "width": 400,
       "x": 1640,
       "y": -1680
-    },
-    {
-      "file": "postgres/link format for connections.md",
-      "height": 360,
-      "id": "e51accff63b1647c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2160,
-      "y": 720
     },
     {
       "file": "Запросы PostgreSQL.md",
@@ -440,10 +427,56 @@
       "file": "Мультиязычность в базе данных. Делаем поддержку нескольких языков в базе данных..md",
       "height": 400,
       "id": "ab9abe662a2363dc",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 560,
       "x": -40,
       "y": 360
+    },
+    {
+      "file": "Работа с JSONB, JSON в PostgreSQL.md",
+      "height": 400,
+      "id": "1dbb35c58004b958",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1480,
+      "y": 940
+    },
+    {
+      "file": "хуец.md",
+      "height": 400,
+      "id": "7ded56b6b5b72180",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3000,
+      "y": 160
+    },
+    {
+      "file": "postgres/link format for connections.md",
+      "height": 360,
+      "id": "e51accff63b1647c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 560
+    },
+    {
+      "file": "postgres/Start with postgres  Download postgres Установка.md",
+      "height": 880,
+      "id": "0e812e3a1a2df6b2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 660,
+      "y": -1620
     }
   ]
 }

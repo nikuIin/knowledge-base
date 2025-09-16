@@ -378,6 +378,60 @@
       },
       "toNode": "b64b55be4a78fd61",
       "toSide": "right"
+    },
+    {
+      "fromNode": "1094fd28416c743d",
+      "fromSide": "bottom",
+      "id": "f07c0d68cfedbd3e",
+      "styleAttributes": {
+      },
+      "toNode": "e57ba6f210e0d797",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e57ba6f210e0d797",
+      "fromSide": "right",
+      "id": "5360782109346a78",
+      "styleAttributes": {
+      },
+      "toNode": "709e464d4d1d6ee8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fe9286dfe035ba0f",
+      "fromSide": "left",
+      "id": "4704e136502ef2e8",
+      "styleAttributes": {
+      },
+      "toNode": "7e21b6c99ddaae0a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "fe9286dfe035ba0f",
+      "fromSide": "left",
+      "id": "5eefc3bd951fdeac",
+      "styleAttributes": {
+      },
+      "toNode": "cdffbacf6fef1ae0",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "fe9286dfe035ba0f",
+      "fromSide": "bottom",
+      "id": "9c301e78d9508ca1",
+      "styleAttributes": {
+      },
+      "toNode": "62a547590bc4df9c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fe9286dfe035ba0f",
+      "fromSide": "left",
+      "id": "5d2cae44c9a8e5e6",
+      "styleAttributes": {
+      },
+      "toNode": "97554838221656ac",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -415,26 +469,26 @@
       "y": -3000
     },
     {
-      "file": "Метрики, сбор статистики проекта или сайта.md",
-      "height": 450,
-      "id": "f913749c1f45d15d",
+      "file": "Шаблонная конфигурация проекта FastAPI (core.config).md",
+      "height": 760,
+      "id": "8460d697f008f2c8",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 510,
-      "x": -4050,
-      "y": -970
+      "width": 1180,
+      "x": 2880,
+      "y": -5040
     },
     {
-      "file": "Трассировка. Сбор информации о работе сайта, сбор информации о работе ручек, эндпоинтов.md",
-      "height": 400,
-      "id": "1b9723bdbc07ac38",
+      "file": "Шаблонные env файлы.md",
+      "height": 760,
+      "id": "fa14f114b1da4db6",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 750,
-      "x": -3985,
-      "y": -400
+      "width": 1180,
+      "x": 4120,
+      "y": -5040
     },
     {
       "file": "Ведение журналов, логи, логирование проекта, logging, logger.md",
@@ -459,37 +513,15 @@
       "y": -2200
     },
     {
-      "file": "структура проекта от Любановича.md",
-      "height": 480,
-      "id": "ccecb246963651d8",
+      "file": "Подсказки типов python.md",
+      "height": 760,
+      "id": "b6c90900a6d4dbc2",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 520,
-      "x": -3310,
-      "y": 430
-    },
-    {
-      "file": "Как создавать проект/Подробное дерево проектов.md",
-      "height": 1320,
-      "id": "70f34c359ee75dd3",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1065,
-      "x": -5040,
-      "y": 910
-    },
-    {
-      "file": "Хорошая структура проекта.md",
-      "height": 920,
-      "id": "638b1dbe48e77974",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 860,
-      "x": -3740,
-      "y": 1500
+      "width": 600,
+      "x": -1440,
+      "y": -2260
     },
     {
       "height": 60,
@@ -503,28 +535,6 @@
       "y": -1280
     },
     {
-      "file": "fastAPI clean arcitectures repositories.md",
-      "height": 510,
-      "id": "c857b136dd8b5abf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 660,
-      "x": -2480,
-      "y": 400
-    },
-    {
-      "file": "Как создавать проект/Pyright configuration.md",
-      "height": 2080,
-      "id": "d03f418316bbd21e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 810,
-      "x": -3000,
-      "y": 2480
-    },
-    {
       "file": "Pydantic расширения (типы).md",
       "height": 580,
       "id": "da47822911b98fc8",
@@ -534,28 +544,6 @@
       "width": 600,
       "x": -760,
       "y": -2840
-    },
-    {
-      "file": "Подсказки типов python.md",
-      "height": 760,
-      "id": "b6c90900a6d4dbc2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 600,
-      "x": -1440,
-      "y": -2260
-    },
-    {
-      "file": "Зависимости Dependencies.md",
-      "height": 1480,
-      "id": "c92b60b2cabbe622",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 940,
-      "x": 320,
-      "y": -3000
     },
     {
       "file": "Pydantic.md",
@@ -580,60 +568,15 @@
       "y": -970
     },
     {
-      "height": 140,
-      "id": "1094fd28416c743d",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "text": "# FastApi\n[[python]]",
-      "type": "text",
-      "width": 280,
-      "x": -460,
-      "y": -840
-    },
-    {
-      "file": "Core, конфиги.md",
-      "height": 620,
-      "id": "04c5f48b2d834bb9",
+      "file": "Метрики, сбор статистики проекта или сайта.md",
+      "height": 450,
+      "id": "f913749c1f45d15d",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 890,
-      "x": -1520,
-      "y": 210
-    },
-    {
-      "file": "Auth autorize, авторизация и аутентификация в проектах.md",
-      "height": 680,
-      "id": "6dd711b65af2231b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 940,
-      "x": 320,
-      "y": -1260
-    },
-    {
-      "file": "Как создавать проект/ruff configuration (pyproject.toml).md",
-      "height": 780,
-      "id": "ee1d224ff662ea7e",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 860,
-      "x": -2320,
-      "y": 1180
-    },
-    {
-      "file": "Requests types. Виды запросов и их правильная реализация в FastAPI.md",
-      "height": 360,
-      "id": "39f9059eba7b152b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 480,
-      "x": 1520,
-      "y": 900
+      "width": 510,
+      "x": -4050,
+      "y": -970
     },
     {
       "file": "Настраиваем маршруты FastAPI. router роутеры.md",
@@ -643,43 +586,19 @@
       },
       "type": "file",
       "width": 950,
-      "x": 1760,
-      "y": -490
+      "x": 1810,
+      "y": -865
     },
     {
-      "file": "Создаем версионность api v1, v2 с помощью маршрутов.md",
-      "height": 810,
-      "id": "26824fcea4d77d80",
+      "file": "Зависимости Dependencies.md",
+      "height": 1480,
+      "id": "c92b60b2cabbe622",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 620,
-      "x": 3030,
-      "y": -280
-    },
-    {
-      "color": "2",
-      "file": "Делаем выборку из результата ответа БД на запрос SQLAlchemy.md",
-      "height": 1680,
-      "id": "267eab0164ba38d1",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1120,
-      "x": 2120,
-      "y": 4020
-    },
-    {
-      "color": "2",
-      "file": "Сырые SQL запросы в SQLAlchemy.md",
-      "height": 420,
-      "id": "cb0ba5ecc7b67b06",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 660,
-      "x": 2120,
-      "y": 3300
+      "width": 940,
+      "x": 220,
+      "y": -3140
     },
     {
       "file": "PATCH.md",
@@ -689,8 +608,8 @@
       },
       "type": "file",
       "width": 880,
-      "x": 2400,
-      "y": 620
+      "x": 2450,
+      "y": 130
     },
     {
       "color": "3",
@@ -705,50 +624,37 @@
       "y": 1690
     },
     {
-      "color": "3",
-      "file": "Создаем миграции alembic.md",
-      "height": 1600,
-      "id": "ff0f2ead5f172421",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1000,
-      "x": 5200,
-      "y": 3120
-    },
-    {
-      "file": "Шаблонный gitignore.md",
+      "file": "Разбираемся с хешами (хеширование python, fastapi).md",
       "height": 680,
-      "id": "0184def7141a5ad8",
+      "id": "709e464d4d1d6ee8",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 920,
-      "x": 2880,
-      "y": -2000
+      "width": 700,
+      "x": 2040,
+      "y": 1480
     },
     {
-      "color": "2",
-      "file": "Engine – движок SQLAlchemy.md",
-      "height": 1600,
-      "id": "0971ecb087d87e6c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 900,
-      "x": 800,
-      "y": 3400
-    },
-    {
-      "file": "uvicorn стартуем FastAPI.md",
+      "file": "Requests types. Виды запросов и их правильная реализация в FastAPI.md",
       "height": 360,
-      "id": "d7012c1f7434b8de",
+      "id": "39f9059eba7b152b",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 360,
-      "x": 400,
-      "y": -400
+      "width": 480,
+      "x": 1570,
+      "y": 410
+    },
+    {
+      "file": "Шаблонный проект FastAPI.md",
+      "height": 260,
+      "id": "746ba154d15d6d68",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1480,
+      "y": -2840
     },
     {
       "file": "Web-level веб уровень FastAPI веб-приложения.md",
@@ -758,41 +664,86 @@
       },
       "type": "file",
       "width": 400,
-      "x": 560,
-      "y": 320
+      "x": 800,
+      "y": 10
     },
     {
-      "file": "Настройка alembic в базовом проекте.md",
-      "height": 680,
-      "id": "0e42cfc98c40f33d",
+      "file": "uvicorn стартуем FastAPI.md",
+      "height": 360,
+      "id": "d7012c1f7434b8de",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 920,
-      "x": 4800,
-      "y": -2000
+      "width": 360,
+      "x": 500,
+      "y": -700
     },
     {
-      "file": "Шаблонный gitconfig (global).md",
+      "file": "Auth autorize, авторизация и аутентификация в проектах.md",
       "height": 680,
-      "id": "e34cb75172251359",
+      "id": "6dd711b65af2231b",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 860,
-      "x": 3860,
-      "y": -2000
+      "width": 940,
+      "x": 1160,
+      "y": -1620
     },
     {
-      "file": "Настройка docker и docker images в шаблонном проекте FastAPI.md",
-      "height": 680,
-      "id": "2463dcdee16405b4",
+      "height": 140,
+      "id": "1094fd28416c743d",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "# FastApi\n[[python]]",
+      "type": "text",
+      "width": 280,
+      "x": -460,
+      "y": -840
+    },
+    {
+      "file": "fastapi сервисный слой (service, use_cases).md",
+      "height": 470,
+      "id": "e57ba6f210e0d797",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 1040,
-      "x": 5840,
-      "y": -2000
+      "width": 400,
+      "x": 1160,
+      "y": 1370
+    },
+    {
+      "file": "Трассировка. Сбор информации о работе сайта, сбор информации о работе ручек, эндпоинтов.md",
+      "height": 400,
+      "id": "1b9723bdbc07ac38",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 750,
+      "x": -3985,
+      "y": -400
+    },
+    {
+      "file": "структура проекта от Любановича.md",
+      "height": 480,
+      "id": "ccecb246963651d8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 520,
+      "x": -3310,
+      "y": 430
+    },
+    {
+      "file": "Core, конфиги.md",
+      "height": 620,
+      "id": "04c5f48b2d834bb9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 890,
+      "x": -1520,
+      "y": 210
     },
     {
       "file": "Уровень данных Data layer (db, repository).md",
@@ -802,8 +753,41 @@
       },
       "type": "file",
       "width": 780,
-      "x": -320,
+      "x": -630,
       "y": 910
+    },
+    {
+      "file": "Разграничиваем IntegrityError ошику. Раскрываем IntegrityError.md",
+      "height": 700,
+      "id": "b64b55be4a78fd61",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1020,
+      "x": -1360,
+      "y": 2720
+    },
+    {
+      "file": "Как создавать проект/Подробное дерево проектов.md",
+      "height": 1320,
+      "id": "70f34c359ee75dd3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1065,
+      "x": -5040,
+      "y": 910
+    },
+    {
+      "file": "Хорошая структура проекта.md",
+      "height": 920,
+      "id": "638b1dbe48e77974",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 860,
+      "x": -3740,
+      "y": 1500
     },
     {
       "file": "Работа с базой данных в fastapi приложении. python + db.md",
@@ -829,6 +813,109 @@
       "y": 2660
     },
     {
+      "file": "Создаем версионность api v1, v2 с помощью маршрутов.md",
+      "height": 810,
+      "id": "26824fcea4d77d80",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 3080,
+      "y": -770
+    },
+    {
+      "color": "3",
+      "file": "Создаем миграции alembic.md",
+      "height": 1600,
+      "id": "ff0f2ead5f172421",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1000,
+      "x": 5200,
+      "y": 3120
+    },
+    {
+      "color": "2",
+      "file": "Сырые SQL запросы в SQLAlchemy.md",
+      "height": 420,
+      "id": "cb0ba5ecc7b67b06",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 660,
+      "x": 2120,
+      "y": 3300
+    },
+    {
+      "color": "2",
+      "file": "Делаем выборку из результата ответа БД на запрос SQLAlchemy.md",
+      "height": 1680,
+      "id": "267eab0164ba38d1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1120,
+      "x": 2120,
+      "y": 4020
+    },
+    {
+      "file": "Шаблонный gitconfig (global).md",
+      "height": 680,
+      "id": "e34cb75172251359",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 860,
+      "x": 3860,
+      "y": -2000
+    },
+    {
+      "file": "Шаблонный gitignore.md",
+      "height": 680,
+      "id": "0184def7141a5ad8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 920,
+      "x": 2880,
+      "y": -2000
+    },
+    {
+      "file": "Настройка docker и docker images в шаблонном проекте FastAPI.md",
+      "height": 680,
+      "id": "2463dcdee16405b4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1040,
+      "x": 5840,
+      "y": -2000
+    },
+    {
+      "file": "Настройка alembic в базовом проекте.md",
+      "height": 680,
+      "id": "0e42cfc98c40f33d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 920,
+      "x": 4800,
+      "y": -2000
+    },
+    {
+      "color": "2",
+      "file": "Engine – движок SQLAlchemy.md",
+      "height": 1600,
+      "id": "0971ecb087d87e6c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 900,
+      "x": 800,
+      "y": 3400
+    },
+    {
       "color": "2",
       "file": "SQLAlchemy подключение к базе данных с помощь сессий (session, session_maker).md",
       "height": 1900,
@@ -839,6 +926,62 @@
       "width": 1040,
       "x": 520,
       "y": 5440
+    },
+    {
+      "file": "fastAPI clean arcitectures repositories.md",
+      "height": 510,
+      "id": "c857b136dd8b5abf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 660,
+      "x": -2480,
+      "y": 400
+    },
+    {
+      "file": "Как создавать проект/ruff configuration (pyproject.toml).md",
+      "height": 780,
+      "id": "ee1d224ff662ea7e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 860,
+      "x": -2320,
+      "y": 1180
+    },
+    {
+      "file": "Как создавать проект/Pyright configuration.md",
+      "height": 2080,
+      "id": "d03f418316bbd21e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 810,
+      "x": -3000,
+      "y": 2480
+    },
+    {
+      "color": "2",
+      "file": "Динамично строим запросы SQLAlchemy ORM с группировкой OR и AND.md",
+      "height": 1040,
+      "id": "7e21b6c99ddaae0a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 880,
+      "x": -2640,
+      "y": 5000
+    },
+    {
+      "file": "Строим динамичный SQL запрос по поиску статей по нескольким проверкам.md",
+      "height": 680,
+      "id": "97554838221656ac",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1140,
+      "x": -3260,
+      "y": 6080
     },
     {
       "color": "2",
@@ -853,37 +996,28 @@
       "y": 6080
     },
     {
-      "file": "Шаблонный проект FastAPI.md",
-      "height": 260,
-      "id": "746ba154d15d6d68",
+      "color": "2",
+      "file": "SQLAlchemy ORM создание таблиц декларативным способом (BaseModel, Classes).md",
+      "height": 1800,
+      "id": "92114dd0134e2497",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 500,
-      "x": 1480,
-      "y": -2840
+      "width": 1120,
+      "x": -810,
+      "y": 3920
     },
     {
-      "file": "Шаблонная конфигурация проекта FastAPI (core.config).md",
-      "height": 760,
-      "id": "8460d697f008f2c8",
+      "color": "2",
+      "file": "Строим динамичный SQL запрос SQLAlchemy.md",
+      "height": 920,
+      "id": "cdffbacf6fef1ae0",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 1180,
-      "x": 2880,
-      "y": -5040
-    },
-    {
-      "file": "Шаблонные env файлы.md",
-      "height": 760,
-      "id": "fa14f114b1da4db6",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1180,
-      "x": 4120,
-      "y": -5040
+      "width": 780,
+      "x": -2760,
+      "y": 6800
     },
     {
       "file": "Настройка базы данных db для шаблонного приложения.md",
@@ -908,6 +1042,17 @@
       "y": -2940
     },
     {
+      "file": "Настраиваем модели SQLAlchemy в шаблонном (базовом) проекте FastAPI.md",
+      "height": 700,
+      "id": "23b95ede5ef277ed",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": 4800,
+      "y": -2940
+    },
+    {
       "file": "Шаблонное логирование проекта FastAPI (core.logger.logger и core.logger.filter).md",
       "height": 960,
       "id": "d86891df39410cb8",
@@ -919,38 +1064,15 @@
       "y": -4160
     },
     {
-      "color": "2",
-      "file": "SQLAlchemy ORM создание таблиц декларативным способом (BaseModel, Classes).md",
-      "height": 1800,
-      "id": "92114dd0134e2497",
+      "file": "Пример sql на SQLAlchemy.md",
+      "height": 1440,
+      "id": "62a547590bc4df9c",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 1120,
-      "x": -810,
-      "y": 3920
-    },
-    {
-      "file": "Разграничиваем IntegrityError ошику. Раскрываем IntegrityError.md",
-      "height": 700,
-      "id": "b64b55be4a78fd61",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1020,
-      "x": -1360,
-      "y": 2720
-    },
-    {
-      "file": "Настраиваем модели SQLAlchemy в шаблонном (базовом) проекте FastAPI.md",
-      "height": 700,
-      "id": "23b95ede5ef277ed",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 800,
-      "x": 4800,
-      "y": -2940
+      "width": 960,
+      "x": -1780,
+      "y": 7300
     }
   ]
 }

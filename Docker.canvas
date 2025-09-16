@@ -26,6 +26,15 @@
       },
       "toNode": "baf0bb2ada0ef419",
       "toSide": "right"
+    },
+    {
+      "fromNode": "f6d1ab4717c484f3",
+      "fromSide": "left",
+      "id": "466fb062602e72ec",
+      "styleAttributes": {
+      },
+      "toNode": "db01b1e6c4e42f60",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -41,15 +50,15 @@
       "y": -240
     },
     {
-      "file": "docker-compose.yaml.md",
-      "height": 420,
+      "file": "docker-compose.yml.md",
+      "height": 540,
       "id": "487a8d39e8c47a79",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 520,
+      "width": 880,
       "x": 380,
-      "y": -560
+      "y": -680
     },
     {
       "file": "docker-compose команды (commands).md",
@@ -72,6 +81,17 @@
       "width": 400,
       "x": -940,
       "y": -540
+    },
+    {
+      "file": "Советы по устранению ошибок при работе с docker-compose.yml.md",
+      "height": 1460,
+      "id": "db01b1e6c4e42f60",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 860,
+      "x": -1500,
+      "y": 120
     }
   ]
 }

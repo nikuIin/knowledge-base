@@ -1,0 +1,77 @@
+{
+  "edges": [
+    {
+      "fromNode": "857f0448f2550982",
+      "fromSide": "left",
+      "id": "7fcf28b901202d43",
+      "styleAttributes": {
+      },
+      "toNode": "2d7a995aca5d1822",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "857f0448f2550982",
+      "fromSide": "right",
+      "id": "9be1cd6f1bf1bbc0",
+      "styleAttributes": {
+      },
+      "toNode": "8d3c318bdc4f6cf9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8d3c318bdc4f6cf9",
+      "fromSide": "right",
+      "id": "debb49c1d3e6ebab",
+      "styleAttributes": {
+      },
+      "toNode": "9d38a5b444c66158",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "python.md",
+      "height": 160,
+      "id": "857f0448f2550982",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": -140
+    },
+    {
+      "file": "Что такое литерал (Literal).md",
+      "height": 740,
+      "id": "2d7a995aca5d1822",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": -1020,
+      "y": -480
+    },
+    {
+      "file": "Декораторы в python.md",
+      "height": 340,
+      "id": "8d3c318bdc4f6cf9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 540,
+      "y": -480
+    },
+    {
+      "file": "@wraps из functools. Зачем он нужен в наших декораторах?.md",
+      "height": 840,
+      "id": "9d38a5b444c66158",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 700,
+      "x": 1140,
+      "y": -1080
+    }
+  ]
+}

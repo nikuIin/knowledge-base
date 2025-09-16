@@ -1,0 +1,165 @@
+{
+  "edges": [
+    {
+      "fromNode": "9ea6fbbb7a764450",
+      "fromSide": "left",
+      "id": "ed3b3a2b5e43b5b4",
+      "styleAttributes": {
+      },
+      "toNode": "ae532874902ac1a6",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9ea6fbbb7a764450",
+      "fromSide": "right",
+      "id": "b15d66a24df3e01f",
+      "styleAttributes": {
+      },
+      "toNode": "336a79dacdae2bb3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9ea6fbbb7a764450",
+      "fromSide": "right",
+      "id": "c464b90f48dedf25",
+      "styleAttributes": {
+      },
+      "toNode": "75731067975bf7fa",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2840,
+      "id": "ae532874902ac1a6",
+      "label": "База",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1880,
+      "x": -2360,
+      "y": -920
+    },
+    {
+      "file": "Первая программа на go.md",
+      "height": 720,
+      "id": "f7f46248cdb96daf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 820,
+      "x": -2280,
+      "y": -840
+    },
+    {
+      "file": "Пакеты, переменные и функции в go — начало..md",
+      "height": 720,
+      "id": "19f355a049f77cd2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": -1400,
+      "y": -840
+    },
+    {
+      "file": "Форматер и импорт-форматер в go.md",
+      "height": 600,
+      "id": "cc31fc8e73dc9321",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 820,
+      "x": -2280,
+      "y": -80
+    },
+    {
+      "file": "Переменные в go.md",
+      "height": 800,
+      "id": "76018a28c4720d3f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": -1400,
+      "y": -80
+    },
+    {
+      "file": "Go.md",
+      "height": 200,
+      "id": "9ea6fbbb7a764450",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 120,
+      "y": 120
+    },
+    {
+      "file": "Константы в Go.md",
+      "height": 400,
+      "id": "40f98f80c82523f8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 820,
+      "x": -2280,
+      "y": 560
+    },
+    {
+      "file": "Типы переменных в Go.md",
+      "height": 920,
+      "id": "8c7fd0b66c06b783",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 840,
+      "x": -1400,
+      "y": 760
+    },
+    {
+      "file": "Форматирование строк в go.md",
+      "height": 240,
+      "id": "bfe79ce6f5399dd8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 810,
+      "x": -2270,
+      "y": 1000
+    },
+    {
+      "file": "Массивы в Go.md",
+      "height": 400,
+      "id": "dcb30f202152e019",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 805,
+      "x": -2265,
+      "y": 1280
+    },
+    {
+      "file": "Настройка логирования go + slog от авито.md",
+      "height": 400,
+      "id": "336a79dacdae2bb3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 700,
+      "x": 1000,
+      "y": -720
+    },
+    {
+      "file": "Go работа с контекстами (go context).md",
+      "height": 400,
+      "id": "75731067975bf7fa",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": 1300,
+      "y": 120
+    }
+  ]
+}

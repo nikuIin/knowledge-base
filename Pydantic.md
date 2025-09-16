@@ -101,23 +101,36 @@ class Some(BaseModel):
 #### Вешаем кастомную проверку на *весь объект* `@model_validator`
 
 ```python
-from pydantic import model_validator
+from datetime import datetime
+from typing import Self
+from uuid import UUID
 
-ALLOWED_TARRIF_TYPES = [1, 2, 3]
+from pydantic import BaseModel, Field, model_validator
 
-class Some(BaseModel):
-	tarif: int = Field(default=1)
-	balance: float = Field(ge=0)
-	discount: float = Field(ge=0, le=0.9)
+from domain.entities.sale_stage import SaleStage
+from domain.enums import Priority
 
-	@model_validator(mode='after')
-	def validate_discount_by_tarif(self):
-		if (
-			self.tarif in ALLOWED_TARRIF_TYPES
-			and self.tarif != 3
-			and discount > 0.5
-		):
-			raise ValueError("Ваш тариф не позволяет иметь такую скидку")
+
+class Deal(BaseModel):
+    deal_id: UUID
+    sale_stage: SaleStage
+    fields: dict
+    probality: float = Field(ge=0, le=1)
+    priority: int = Field(
+        ge=Priority.NO_PRIORITY,
+        le=Priority.HIGHEST_PRIORIRY,
+    )
+    lost_reason: str | None = None
+    created_at: datetime
+    close_at: None | datetime = None
+
+    @model_validator(mode="after")
+    def validate_close_time(self) -> Self:
+        if self.close_at and self.close_at < self.created_at:
+            raise ValueError(
+                "Cloase at time can't be less than created_at time."
+            )
+        return self
 ```
 
 #### Тактика валидации

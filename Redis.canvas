@@ -1,0 +1,15 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Redis.md",
+      "height": 400,
+      "id": "ec980f76b7b7d70a",
+      "type": "file",
+      "width": 400,
+      "x": -200,
+      "y": -220
+    }
+  ]
+}

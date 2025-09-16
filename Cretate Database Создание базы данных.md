@@ -18,4 +18,3 @@ lc_collate="ru_RU.utf8"
 lc_ctype="ru_RU.utf8"
 owner van;
 ```
-

@@ -125,53 +125,109 @@
       },
       "toNode": "4a1461f8c25a8a76",
       "toSide": "left"
+    },
+    {
+      "fromNode": "2539f8ecd2a029a2",
+      "fromSide": "top",
+      "id": "73ccef48dcac21bf",
+      "styleAttributes": {
+      },
+      "toNode": "899361e44569101a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "2539f8ecd2a029a2",
+      "fromSide": "left",
+      "id": "05d75ff80e90bb7d",
+      "styleAttributes": {
+      },
+      "toNode": "1721e9ec4fae976f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "1721e9ec4fae976f",
+      "fromSide": "bottom",
+      "id": "9288bcf5520359e9",
+      "styleAttributes": {
+      },
+      "toNode": "165ed7eb1986d0f0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1721e9ec4fae976f",
+      "fromSide": "bottom",
+      "id": "d8c318c07d7c5469",
+      "styleAttributes": {
+      },
+      "toNode": "35573ed11b108e56",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1721e9ec4fae976f",
+      "fromSide": "bottom",
+      "id": "4902d416dbbe43bb",
+      "styleAttributes": {
+      },
+      "toNode": "db6ab0da0d17ea7d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "94871f239a0d42bb",
+      "fromSide": "bottom",
+      "id": "b2185149fd13c15c",
+      "styleAttributes": {
+      },
+      "toNode": "3c6be8cc428e516b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1721e9ec4fae976f",
+      "fromSide": "right",
+      "id": "a98d9582aa54a149",
+      "styleAttributes": {
+      },
+      "toNode": "6b0cc47dce281aea",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1721e9ec4fae976f",
+      "fromSide": "bottom",
+      "id": "7b5cdfc715750f9d",
+      "styleAttributes": {
+      },
+      "toNode": "cb8de04e284bfa12",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1721e9ec4fae976f",
+      "fromSide": "bottom",
+      "id": "b85ea36d07720a17",
+      "styleAttributes": {
+      },
+      "toNode": "8b8932de6b7fef7d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cb8de04e284bfa12",
+      "fromSide": "right",
+      "id": "755e2d126bdc2b3a",
+      "styleAttributes": {
+        "arrow": "blunt"
+      },
+      "toNode": "8b8932de6b7fef7d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8b8932de6b7fef7d",
+      "fromSide": "bottom",
+      "id": "74b7d777c82d1044",
+      "styleAttributes": {
+      },
+      "toNode": "bdfb2ac86795f017",
+      "toSide": "top"
     }
   ],
   "nodes": [
-    {
-      "file": "Этапы тестирования.md",
-      "height": 940,
-      "id": "03ef527cb795fc33",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 600,
-      "x": -1360,
-      "y": -720
-    },
-    {
-      "file": "Мой план разработки с тестами.md",
-      "height": 400,
-      "id": "aa9a17529ebcf9bf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -2120,
-      "y": -720
-    },
-    {
-      "file": "Методология TDD (test driven development) Разработка через тестирование.md",
-      "height": 920,
-      "id": "9b128f0bc1a7a5ae",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 640,
-      "x": -2440,
-      "y": -160
-    },
-    {
-      "file": "pytest ожидание ошибки.md",
-      "height": 340,
-      "id": "10c925b866ddd469",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 560,
-      "x": -1240,
-      "y": 1080
-    },
     {
       "file": "Conftest – общая конфигурация для фикстур, общие фикстуры.md",
       "height": 680,
@@ -182,17 +238,6 @@
       "width": 600,
       "x": 1480,
       "y": -320
-    },
-    {
-      "file": "pytest параметризованное тестирование (parametrize tests).md",
-      "height": 640,
-      "id": "be706a768ce273ef",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 800,
-      "x": -440,
-      "y": 1200
     },
     {
       "file": "Фикстуры fixture.md",
@@ -217,17 +262,6 @@
       "y": 640
     },
     {
-      "file": "pytest настройка фикстуры по работе с БД.md",
-      "height": 980,
-      "id": "423b7f993c3db594",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1100,
-      "x": 740,
-      "y": 1140
-    },
-    {
       "file": "Маркирование тестов. Test markers, marks.md",
       "height": 480,
       "id": "ceb617e155687906",
@@ -250,17 +284,6 @@
       "y": -1040
     },
     {
-      "file": "pytest-dotenv подмена файла переменных окружения и проверка режимы работы приложения (тестовое, прод, раработка).md",
-      "height": 920,
-      "id": "a2919ee85e25fb58",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1030,
-      "x": 1440,
-      "y": -2200
-    },
-    {
       "file": "Тестирование. Pytest.md",
       "height": 260,
       "id": "2539f8ecd2a029a2",
@@ -275,10 +298,197 @@
       "file": "pytest Выводим логи приложения в тестах.md",
       "height": 720,
       "id": "4a1461f8c25a8a76",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 620,
       "x": 1880,
       "y": -1160
+    },
+    {
+      "file": "Методология TDD (test driven development) Разработка через тестирование.md",
+      "height": 920,
+      "id": "9b128f0bc1a7a5ae",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 640,
+      "x": -3600,
+      "y": -150
+    },
+    {
+      "file": "Мой план разработки с тестами.md",
+      "height": 400,
+      "id": "aa9a17529ebcf9bf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -2880,
+      "y": -1080
+    },
+    {
+      "file": "pytest Моки (mocks, заглушки) и стабы.md",
+      "height": 1260,
+      "id": "899361e44569101a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 940,
+      "x": -1560,
+      "y": -1540
+    },
+    {
+      "file": "Этапы тестирования.md",
+      "height": 940,
+      "id": "03ef527cb795fc33",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 600,
+      "x": -2260,
+      "y": -280
+    },
+    {
+      "file": "pytest-dotenv подмена файла переменных окружения и проверка режимы работы приложения (тестовое, прод, раработка).md",
+      "height": 920,
+      "id": "a2919ee85e25fb58",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1030,
+      "x": 1420,
+      "y": -2200
+    },
+    {
+      "file": "pytest настройка фикстуры по работе с БД.md",
+      "height": 980,
+      "id": "423b7f993c3db594",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1100,
+      "x": 1230,
+      "y": 1250
+    },
+    {
+      "file": "pytest параметризованное тестирование (parametrize tests).md",
+      "height": 550,
+      "id": "be706a768ce273ef",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -240,
+      "y": 525
+    },
+    {
+      "file": "pytest ожидание ошибки.md",
+      "height": 340,
+      "id": "10c925b866ddd469",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 560,
+      "x": -1090,
+      "y": 580
+    },
+    {
+      "file": "Тон хорошего тестирования. Хорошее unit тестирование..md",
+      "height": 240,
+      "id": "1721e9ec4fae976f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1960,
+      "y": 1010
+    },
+    {
+      "file": "Когда стоит использовать фикстуры.md",
+      "height": 920,
+      "id": "3c6be8cc428e516b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 640,
+      "x": 120,
+      "y": 1440
+    },
+    {
+      "file": "Пишем правильно имена для тестов.md",
+      "height": 800,
+      "id": "6b0cc47dce281aea",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -980,
+      "y": 1240
+    },
+    {
+      "file": "Что на самом деле такое test coverage и что оно нам дает?.md",
+      "height": 520,
+      "id": "165ed7eb1986d0f0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 800,
+      "x": -4080,
+      "y": 1440
+    },
+    {
+      "file": "Паттерн написания тестов AAA. Как писать юнит тест?.md",
+      "height": 780,
+      "id": "db6ab0da0d17ea7d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 980,
+      "x": -4130,
+      "y": 2240
+    },
+    {
+      "file": "Тесты должны проверять не единицу кода, а единицу поведения. Pytest, что именно тестировать?.md",
+      "height": 680,
+      "id": "35573ed11b108e56",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 900,
+      "x": -3730,
+      "y": 3200
+    },
+    {
+      "file": "Ответы на вопрос по написанию юнит тестов и тестов ХВ.md",
+      "height": 800,
+      "id": "cb8de04e284bfa12",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 680,
+      "x": -2440,
+      "y": 2240
+    },
+    {
+      "file": "Признаки (запахи) хорошего и плохого теста.md",
+      "height": 400,
+      "id": "8b8932de6b7fef7d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 480,
+      "x": -1360,
+      "y": 2200
+    },
+    {
+      "file": "4 столпа хорошего теста.md",
+      "height": 400,
+      "id": "bdfb2ac86795f017",
+      "type": "file",
+      "width": 620,
+      "x": -1080,
+      "y": 2720
     }
   ]
 }

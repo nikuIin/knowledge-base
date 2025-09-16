@@ -10,33 +10,6 @@
       "toSide": "left"
     },
     {
-      "fromNode": "b2166b2bdb283405",
-      "fromSide": "right",
-      "id": "86f73edb4a7ce03b",
-      "styleAttributes": {
-      },
-      "toNode": "289d1f88cfcf27b1",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "b2166b2bdb283405",
-      "fromSide": "right",
-      "id": "7042915a36b82f89",
-      "styleAttributes": {
-      },
-      "toNode": "5f0754d5ea918813",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "b2166b2bdb283405",
-      "fromSide": "right",
-      "id": "d35509cc7f2f38d2",
-      "styleAttributes": {
-      },
-      "toNode": "8e58a7a27b4dee45",
-      "toSide": "left"
-    },
-    {
       "fromNode": "990dc5ae9d1a5641",
       "fromSide": "left",
       "id": "48ec621289d9bd9f",
@@ -73,23 +46,43 @@
       "toSide": "right"
     },
     {
-      "fromNode": "b2166b2bdb283405",
-      "fromSide": "right",
-      "id": "18e785a42b8db4cb",
-      "styleAttributes": {
-      },
-      "toNode": "25943c3614e8f7aa",
-      "toSide": "left"
-    },
-    {
       "fromNode": "990dc5ae9d1a5641",
       "fromSide": "left",
       "id": "e07f3a78db399760",
       "toNode": "a0de37e78d489ada",
       "toSide": "right"
+    },
+    {
+      "fromNode": "b2166b2bdb283405",
+      "fromSide": "right",
+      "id": "f77ced74c12c15bb",
+      "styleAttributes": {
+      },
+      "toNode": "286321ade95b780b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "990dc5ae9d1a5641",
+      "fromSide": "left",
+      "id": "2dce8110b3e0031c",
+      "styleAttributes": {
+      },
+      "toNode": "9646ff2b277ee819",
+      "toSide": "right"
     }
   ],
   "nodes": [
+    {
+      "height": 1920,
+      "id": "286321ade95b780b",
+      "label": "Удобные команды и ништяки",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1760,
+      "x": 1360,
+      "y": -1640
+    },
     {
       "file": "Удобные утилиты Linux Unix Mac. Удобные ништяки, команды. Тулзы linux.md",
       "height": 700,
@@ -102,35 +95,13 @@
       "y": -680
     },
     {
-      "file": "Пишем сразу несколько команд.md",
-      "height": 400,
-      "id": "5f0754d5ea918813",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1380,
-      "y": -60
-    },
-    {
-      "file": "генерируем ssh ключи в терминале.md",
-      "height": 400,
-      "id": "8e58a7a27b4dee45",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1380,
-      "y": -500
-    },
-    {
       "file": "создаем сразу несколько директорий.md",
-      "height": 270,
+      "height": 215,
       "id": "289d1f88cfcf27b1",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 400,
+      "width": 700,
       "x": 1380,
       "y": -815
     },
@@ -201,6 +172,28 @@
       "y": 240
     },
     {
+      "file": "Ищем процесс (программу) слушающий определенный порт и завершаем ее. Кем занят порт.md",
+      "height": 400,
+      "id": "9646ff2b277ee819",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 730,
+      "x": -1940,
+      "y": 720
+    },
+    {
+      "file": "генерируем ssh ключи в терминале.md",
+      "height": 260,
+      "id": "8e58a7a27b4dee45",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 700,
+      "x": 1380,
+      "y": -500
+    },
+    {
       "file": "Linux UNIX.md",
       "height": 160,
       "id": "990dc5ae9d1a5641",
@@ -210,6 +203,17 @@
       "width": 590,
       "x": -640,
       "y": -420
+    },
+    {
+      "file": "Пишем сразу несколько команд.md",
+      "height": 320,
+      "id": "5f0754d5ea918813",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 700,
+      "x": 1380,
+      "y": -180
     }
   ]
 }
