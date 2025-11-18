@@ -1,0 +1,51 @@
+{
+	"nodes":[
+		{"id":"f2971170c302e8a5","type":"file","file":"Работа с пользователями RabbitMQ, права пользователей.md","x":360,"y":-360,"width":640,"height":720},
+		{"id":"c775eed0dc4e63e0","type":"file","file":"rabbitmq.md","x":-500,"y":-160,"width":640,"height":1400},
+		{"id":"5c44a6442b5f6d78","type":"file","file":"Работа с пользователями RabbitMQ через веб-интерфейс.md","x":1160,"y":-1040,"width":860,"height":760},
+		{"id":"0e7b1015c5b98733","type":"file","file":"Виртуальные хосты в RabbitMQ (vhosts).md","x":280,"y":640,"width":720,"height":720}
+	],
+	"edges":[
+		{
+			"id":"7547bbbcfd634c32",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c775eed0dc4e63e0",
+			"fromSide":"right",
+			"toNode":"f2971170c302e8a5",
+			"toSide":"left"
+		},
+		{
+			"id":"5492f0ed4ed9a2e2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c775eed0dc4e63e0",
+			"fromSide":"right",
+			"toNode":"0e7b1015c5b98733",
+			"toSide":"left"
+		},
+		{
+			"id":"a307ebca9ca543a6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f2971170c302e8a5",
+			"fromSide":"right",
+			"toNode":"0e7b1015c5b98733",
+			"toSide":"right",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"41abc022a9631da2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f2971170c302e8a5",
+			"fromSide":"top",
+			"toNode":"5c44a6442b5f6d78",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

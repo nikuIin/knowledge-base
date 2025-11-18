@@ -396,17 +396,6 @@
       "y": -222
     },
     {
-      "file": "Расширенная информация о коммандах git (verbose) -v -vv.md",
-      "height": 387,
-      "id": "7cf9076016b62cb7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 580,
-      "x": 1160,
-      "y": -427
-    },
-    {
       "file": "git restore, обратное git add. Откатываем изменения в git.md",
       "height": 720,
       "id": "ef5d5037741b30b6",
@@ -550,17 +539,6 @@
       "y": 1075
     },
     {
-      "file": "Перемещаемся по коммитам. git checkout.md",
-      "height": 765,
-      "id": "0007b71e3db54eb4",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 588,
-      "x": 440,
-      "y": 1075
-    },
-    {
       "file": "global gitignore. Глобальное игнорирование.md",
       "height": 620,
       "id": "b42d274e857a2f01",
@@ -600,9 +578,31 @@
       "styleAttributes": {
       },
       "type": "file",
-      "width": 746,
+      "width": 780,
       "x": -520,
       "y": 2280
+    },
+    {
+      "file": "Перемещаемся по коммитам. git checkout.md",
+      "height": 662,
+      "id": "0007b71e3db54eb4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 588,
+      "x": 440,
+      "y": 938
+    },
+    {
+      "file": "Расширенная информация о коммандах git (verbose) -v -vv.md",
+      "height": 387,
+      "id": "7cf9076016b62cb7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": 1187,
+      "y": -347
     }
   ]
 }

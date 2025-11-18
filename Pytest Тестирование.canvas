@@ -1,494 +1,441 @@
 {
-  "edges": [
-    {
-      "fromNode": "2539f8ecd2a029a2",
-      "fromSide": "right",
-      "id": "bc8d35dab65ae1b9",
-      "styleAttributes": {
-      },
-      "toNode": "9be77a7ef692617c",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "2539f8ecd2a029a2",
-      "fromSide": "left",
-      "id": "4cb71ab6d21bd0ad",
-      "styleAttributes": {
-      },
-      "toNode": "03ef527cb795fc33",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "2539f8ecd2a029a2",
-      "fromSide": "right",
-      "id": "6f7ff9771cf2b2ac",
-      "styleAttributes": {
-      },
-      "toNode": "94871f239a0d42bb",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "03ef527cb795fc33",
-      "fromSide": "left",
-      "id": "13ed2053e77a3bf0",
-      "styleAttributes": {
-      },
-      "toNode": "aa9a17529ebcf9bf",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "aa9a17529ebcf9bf",
-      "fromSide": "bottom",
-      "id": "4cbf4bc5ceafd5f3",
-      "styleAttributes": {
-      },
-      "toNode": "9b128f0bc1a7a5ae",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "ceb617e155687906",
-      "fromSide": "right",
-      "id": "958c3b19694af0f5",
-      "styleAttributes": {
-      },
-      "toNode": "9be77a7ef692617c",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "94871f239a0d42bb",
-      "fromSide": "right",
-      "id": "986d151ad0999fd0",
-      "styleAttributes": {
-      },
-      "toNode": "e40972c32a3a8427",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "2539f8ecd2a029a2",
-      "fromSide": "bottom",
-      "id": "20dfbacbafae94a7",
-      "styleAttributes": {
-      },
-      "toNode": "be706a768ce273ef",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "2539f8ecd2a029a2",
-      "fromSide": "bottom",
-      "id": "ae3d0ee978245c59",
-      "styleAttributes": {
-      },
-      "toNode": "10c925b866ddd469",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "9be77a7ef692617c",
-      "fromSide": "right",
-      "id": "c5edb0e1138593e2",
-      "styleAttributes": {
-      },
-      "toNode": "a2919ee85e25fb58",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "e40972c32a3a8427",
-      "fromSide": "bottom",
-      "id": "044716813fdd7b66",
-      "styleAttributes": {
-      },
-      "toNode": "7ebec50f1dc24ea3",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "94871f239a0d42bb",
-      "fromSide": "right",
-      "id": "8a6783d644038cc2",
-      "styleAttributes": {
-      },
-      "toNode": "7ebec50f1dc24ea3",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "94871f239a0d42bb",
-      "fromSide": "bottom",
-      "id": "01600ea1b864df1e",
-      "styleAttributes": {
-      },
-      "toNode": "423b7f993c3db594",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "9be77a7ef692617c",
-      "fromSide": "right",
-      "id": "f4f82b71a5bc97f7",
-      "styleAttributes": {
-      },
-      "toNode": "4a1461f8c25a8a76",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "2539f8ecd2a029a2",
-      "fromSide": "top",
-      "id": "73ccef48dcac21bf",
-      "styleAttributes": {
-      },
-      "toNode": "899361e44569101a",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "2539f8ecd2a029a2",
-      "fromSide": "left",
-      "id": "05d75ff80e90bb7d",
-      "styleAttributes": {
-      },
-      "toNode": "1721e9ec4fae976f",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "1721e9ec4fae976f",
-      "fromSide": "bottom",
-      "id": "9288bcf5520359e9",
-      "styleAttributes": {
-      },
-      "toNode": "165ed7eb1986d0f0",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "1721e9ec4fae976f",
-      "fromSide": "bottom",
-      "id": "d8c318c07d7c5469",
-      "styleAttributes": {
-      },
-      "toNode": "35573ed11b108e56",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "1721e9ec4fae976f",
-      "fromSide": "bottom",
-      "id": "4902d416dbbe43bb",
-      "styleAttributes": {
-      },
-      "toNode": "db6ab0da0d17ea7d",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "94871f239a0d42bb",
-      "fromSide": "bottom",
-      "id": "b2185149fd13c15c",
-      "styleAttributes": {
-      },
-      "toNode": "3c6be8cc428e516b",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "1721e9ec4fae976f",
-      "fromSide": "right",
-      "id": "a98d9582aa54a149",
-      "styleAttributes": {
-      },
-      "toNode": "6b0cc47dce281aea",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "1721e9ec4fae976f",
-      "fromSide": "bottom",
-      "id": "7b5cdfc715750f9d",
-      "styleAttributes": {
-      },
-      "toNode": "cb8de04e284bfa12",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "1721e9ec4fae976f",
-      "fromSide": "bottom",
-      "id": "b85ea36d07720a17",
-      "styleAttributes": {
-      },
-      "toNode": "8b8932de6b7fef7d",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "cb8de04e284bfa12",
-      "fromSide": "right",
-      "id": "755e2d126bdc2b3a",
-      "styleAttributes": {
-        "arrow": "blunt"
-      },
-      "toNode": "8b8932de6b7fef7d",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8b8932de6b7fef7d",
-      "fromSide": "bottom",
-      "id": "74b7d777c82d1044",
-      "styleAttributes": {
-      },
-      "toNode": "bdfb2ac86795f017",
-      "toSide": "top"
-    }
-  ],
-  "nodes": [
-    {
-      "file": "Conftest – общая конфигурация для фикстур, общие фикстуры.md",
-      "height": 680,
-      "id": "e40972c32a3a8427",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 600,
-      "x": 1480,
-      "y": -320
-    },
-    {
-      "file": "Фикстуры fixture.md",
-      "height": 1020,
-      "id": "94871f239a0d42bb",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 760,
-      "x": 560,
-      "y": -150
-    },
-    {
-      "file": "pytest настройка фикстуры по работе с БД.md",
-      "height": 440,
-      "id": "7ebec50f1dc24ea3",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 840,
-      "x": 1720,
-      "y": 640
-    },
-    {
-      "file": "Маркирование тестов. Test markers, marks.md",
-      "height": 480,
-      "id": "ceb617e155687906",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 860,
-      "x": -480,
-      "y": -1640
-    },
-    {
-      "file": "Конфигурация pytest в проекте.md",
-      "height": 720,
-      "id": "9be77a7ef692617c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1180,
-      "x": 20,
-      "y": -1040
-    },
-    {
-      "file": "Тестирование. Pytest.md",
-      "height": 260,
-      "id": "2539f8ecd2a029a2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 300,
-      "x": -440,
-      "y": -150
-    },
-    {
-      "file": "pytest Выводим логи приложения в тестах.md",
-      "height": 720,
-      "id": "4a1461f8c25a8a76",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 620,
-      "x": 1880,
-      "y": -1160
-    },
-    {
-      "file": "Методология TDD (test driven development) Разработка через тестирование.md",
-      "height": 920,
-      "id": "9b128f0bc1a7a5ae",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 640,
-      "x": -3600,
-      "y": -150
-    },
-    {
-      "file": "Мой план разработки с тестами.md",
-      "height": 400,
-      "id": "aa9a17529ebcf9bf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -2880,
-      "y": -1080
-    },
-    {
-      "file": "pytest Моки (mocks, заглушки) и стабы.md",
-      "height": 1260,
-      "id": "899361e44569101a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 940,
-      "x": -1560,
-      "y": -1540
-    },
-    {
-      "file": "Этапы тестирования.md",
-      "height": 940,
-      "id": "03ef527cb795fc33",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 600,
-      "x": -2260,
-      "y": -280
-    },
-    {
-      "file": "pytest-dotenv подмена файла переменных окружения и проверка режимы работы приложения (тестовое, прод, раработка).md",
-      "height": 920,
-      "id": "a2919ee85e25fb58",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1030,
-      "x": 1420,
-      "y": -2200
-    },
-    {
-      "file": "pytest настройка фикстуры по работе с БД.md",
-      "height": 980,
-      "id": "423b7f993c3db594",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1100,
-      "x": 1230,
-      "y": 1250
-    },
-    {
-      "file": "pytest параметризованное тестирование (parametrize tests).md",
-      "height": 550,
-      "id": "be706a768ce273ef",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 800,
-      "x": -240,
-      "y": 525
-    },
-    {
-      "file": "pytest ожидание ошибки.md",
-      "height": 340,
-      "id": "10c925b866ddd469",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 560,
-      "x": -1090,
-      "y": 580
-    },
-    {
-      "file": "Тон хорошего тестирования. Хорошее unit тестирование..md",
-      "height": 240,
-      "id": "1721e9ec4fae976f",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1960,
-      "y": 1010
-    },
-    {
-      "file": "Когда стоит использовать фикстуры.md",
-      "height": 920,
-      "id": "3c6be8cc428e516b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 640,
-      "x": 120,
-      "y": 1440
-    },
-    {
-      "file": "Пишем правильно имена для тестов.md",
-      "height": 800,
-      "id": "6b0cc47dce281aea",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 800,
-      "x": -980,
-      "y": 1240
-    },
-    {
-      "file": "Что на самом деле такое test coverage и что оно нам дает?.md",
-      "height": 520,
-      "id": "165ed7eb1986d0f0",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 800,
-      "x": -4080,
-      "y": 1440
-    },
-    {
-      "file": "Паттерн написания тестов AAA. Как писать юнит тест?.md",
-      "height": 780,
-      "id": "db6ab0da0d17ea7d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 980,
-      "x": -4130,
-      "y": 2240
-    },
-    {
-      "file": "Тесты должны проверять не единицу кода, а единицу поведения. Pytest, что именно тестировать?.md",
-      "height": 680,
-      "id": "35573ed11b108e56",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 900,
-      "x": -3730,
-      "y": 3200
-    },
-    {
-      "file": "Ответы на вопрос по написанию юнит тестов и тестов ХВ.md",
-      "height": 800,
-      "id": "cb8de04e284bfa12",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 680,
-      "x": -2440,
-      "y": 2240
-    },
-    {
-      "file": "Признаки (запахи) хорошего и плохого теста.md",
-      "height": 400,
-      "id": "8b8932de6b7fef7d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 480,
-      "x": -1360,
-      "y": 2200
-    },
-    {
-      "file": "4 столпа хорошего теста.md",
-      "height": 400,
-      "id": "bdfb2ac86795f017",
-      "type": "file",
-      "width": 620,
-      "x": -1080,
-      "y": 2720
-    }
-  ]
+	"edges":[
+		{
+			"id":"bc8d35dab65ae1b9",
+			"styleAttributes":{},
+			"fromNode":"2539f8ecd2a029a2",
+			"fromSide":"right",
+			"toNode":"9be77a7ef692617c",
+			"toSide":"left"
+		},
+		{
+			"id":"4cb71ab6d21bd0ad",
+			"styleAttributes":{},
+			"fromNode":"2539f8ecd2a029a2",
+			"fromSide":"left",
+			"toNode":"03ef527cb795fc33",
+			"toSide":"right"
+		},
+		{
+			"id":"6f7ff9771cf2b2ac",
+			"styleAttributes":{},
+			"fromNode":"2539f8ecd2a029a2",
+			"fromSide":"right",
+			"toNode":"94871f239a0d42bb",
+			"toSide":"left"
+		},
+		{
+			"id":"13ed2053e77a3bf0",
+			"styleAttributes":{},
+			"fromNode":"03ef527cb795fc33",
+			"fromSide":"left",
+			"toNode":"aa9a17529ebcf9bf",
+			"toSide":"right"
+		},
+		{
+			"id":"4cbf4bc5ceafd5f3",
+			"styleAttributes":{},
+			"fromNode":"aa9a17529ebcf9bf",
+			"fromSide":"bottom",
+			"toNode":"9b128f0bc1a7a5ae",
+			"toSide":"top"
+		},
+		{
+			"id":"958c3b19694af0f5",
+			"styleAttributes":{},
+			"fromNode":"ceb617e155687906",
+			"fromSide":"right",
+			"toNode":"9be77a7ef692617c",
+			"toSide":"top"
+		},
+		{
+			"id":"986d151ad0999fd0",
+			"styleAttributes":{},
+			"fromNode":"94871f239a0d42bb",
+			"fromSide":"right",
+			"toNode":"e40972c32a3a8427",
+			"toSide":"left"
+		},
+		{
+			"id":"20dfbacbafae94a7",
+			"styleAttributes":{},
+			"fromNode":"2539f8ecd2a029a2",
+			"fromSide":"bottom",
+			"toNode":"be706a768ce273ef",
+			"toSide":"top"
+		},
+		{
+			"id":"ae3d0ee978245c59",
+			"styleAttributes":{},
+			"fromNode":"2539f8ecd2a029a2",
+			"fromSide":"bottom",
+			"toNode":"10c925b866ddd469",
+			"toSide":"top"
+		},
+		{
+			"id":"c5edb0e1138593e2",
+			"styleAttributes":{},
+			"fromNode":"9be77a7ef692617c",
+			"fromSide":"right",
+			"toNode":"a2919ee85e25fb58",
+			"toSide":"left"
+		},
+		{
+			"id":"044716813fdd7b66",
+			"styleAttributes":{},
+			"fromNode":"e40972c32a3a8427",
+			"fromSide":"bottom",
+			"toNode":"7ebec50f1dc24ea3",
+			"toSide":"top"
+		},
+		{
+			"id":"8a6783d644038cc2",
+			"styleAttributes":{},
+			"fromNode":"94871f239a0d42bb",
+			"fromSide":"right",
+			"toNode":"7ebec50f1dc24ea3",
+			"toSide":"left"
+		},
+		{
+			"id":"01600ea1b864df1e",
+			"styleAttributes":{},
+			"fromNode":"94871f239a0d42bb",
+			"fromSide":"bottom",
+			"toNode":"423b7f993c3db594",
+			"toSide":"top"
+		},
+		{
+			"id":"f4f82b71a5bc97f7",
+			"styleAttributes":{},
+			"fromNode":"9be77a7ef692617c",
+			"fromSide":"right",
+			"toNode":"4a1461f8c25a8a76",
+			"toSide":"left"
+		},
+		{
+			"id":"73ccef48dcac21bf",
+			"styleAttributes":{},
+			"fromNode":"2539f8ecd2a029a2",
+			"fromSide":"top",
+			"toNode":"899361e44569101a",
+			"toSide":"bottom"
+		},
+		{
+			"id":"05d75ff80e90bb7d",
+			"styleAttributes":{},
+			"fromNode":"2539f8ecd2a029a2",
+			"fromSide":"left",
+			"toNode":"1721e9ec4fae976f",
+			"toSide":"right"
+		},
+		{
+			"id":"9288bcf5520359e9",
+			"styleAttributes":{},
+			"fromNode":"1721e9ec4fae976f",
+			"fromSide":"bottom",
+			"toNode":"165ed7eb1986d0f0",
+			"toSide":"top"
+		},
+		{
+			"id":"d8c318c07d7c5469",
+			"styleAttributes":{},
+			"fromNode":"1721e9ec4fae976f",
+			"fromSide":"bottom",
+			"toNode":"35573ed11b108e56",
+			"toSide":"top"
+		},
+		{
+			"id":"4902d416dbbe43bb",
+			"styleAttributes":{},
+			"fromNode":"1721e9ec4fae976f",
+			"fromSide":"bottom",
+			"toNode":"db6ab0da0d17ea7d",
+			"toSide":"top"
+		},
+		{
+			"id":"b2185149fd13c15c",
+			"styleAttributes":{},
+			"fromNode":"94871f239a0d42bb",
+			"fromSide":"bottom",
+			"toNode":"3c6be8cc428e516b",
+			"toSide":"top"
+		},
+		{
+			"id":"a98d9582aa54a149",
+			"styleAttributes":{},
+			"fromNode":"1721e9ec4fae976f",
+			"fromSide":"right",
+			"toNode":"6b0cc47dce281aea",
+			"toSide":"left"
+		},
+		{
+			"id":"7b5cdfc715750f9d",
+			"styleAttributes":{},
+			"fromNode":"1721e9ec4fae976f",
+			"fromSide":"bottom",
+			"toNode":"cb8de04e284bfa12",
+			"toSide":"top"
+		},
+		{
+			"id":"b85ea36d07720a17",
+			"styleAttributes":{},
+			"fromNode":"1721e9ec4fae976f",
+			"fromSide":"bottom",
+			"toNode":"8b8932de6b7fef7d",
+			"toSide":"top"
+		},
+		{
+			"id":"755e2d126bdc2b3a",
+			"styleAttributes":{"arrow":"blunt"},
+			"fromNode":"cb8de04e284bfa12",
+			"fromSide":"right",
+			"toNode":"8b8932de6b7fef7d",
+			"toSide":"left"
+		},
+		{
+			"id":"74b7d777c82d1044",
+			"styleAttributes":{},
+			"fromNode":"8b8932de6b7fef7d",
+			"fromSide":"bottom",
+			"toNode":"bdfb2ac86795f017",
+			"toSide":"top"
+		}
+	],
+	"nodes":[
+		{
+			"file":"Conftest – общая конфигурация для фикстур, общие фикстуры.md",
+			"id":"e40972c32a3a8427",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1480,
+			"y":-320,
+			"width":600,
+			"height":680
+		},
+		{
+			"file":"Фикстуры fixture.md",
+			"id":"94871f239a0d42bb",
+			"styleAttributes":{},
+			"type":"file",
+			"x":560,
+			"y":-150,
+			"width":760,
+			"height":1020
+		},
+		{
+			"file":"pytest настройка фикстуры по работе с БД.md",
+			"id":"7ebec50f1dc24ea3",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1720,
+			"y":640,
+			"width":840,
+			"height":440
+		},
+		{
+			"file":"Маркирование тестов. Test markers, marks.md",
+			"id":"ceb617e155687906",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-480,
+			"y":-1640,
+			"width":860,
+			"height":480
+		},
+		{
+			"file":"Конфигурация pytest в проекте.md",
+			"id":"9be77a7ef692617c",
+			"styleAttributes":{},
+			"type":"file",
+			"x":20,
+			"y":-1040,
+			"width":1180,
+			"height":720
+		},
+		{
+			"file":"Тестирование. Pytest.md",
+			"id":"2539f8ecd2a029a2",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-440,
+			"y":-150,
+			"width":300,
+			"height":260
+		},
+		{
+			"file":"pytest Выводим логи приложения в тестах.md",
+			"id":"4a1461f8c25a8a76",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1880,
+			"y":-1160,
+			"width":620,
+			"height":720
+		},
+		{
+			"file":"Методология TDD (test driven development) Разработка через тестирование.md",
+			"id":"9b128f0bc1a7a5ae",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-3600,
+			"y":-150,
+			"width":640,
+			"height":920
+		},
+		{
+			"file":"Мой план разработки с тестами.md",
+			"id":"aa9a17529ebcf9bf",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-2880,
+			"y":-1080,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"pytest Моки (mocks, заглушки) и стабы.md",
+			"id":"899361e44569101a",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-1560,
+			"y":-1540,
+			"width":940,
+			"height":1260
+		},
+		{
+			"file":"Этапы тестирования.md",
+			"id":"03ef527cb795fc33",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-2260,
+			"y":-280,
+			"width":600,
+			"height":940
+		},
+		{
+			"file":"pytest-dotenv подмена файла переменных окружения и проверка режимы работы приложения (тестовое, прод, раработка).md",
+			"id":"a2919ee85e25fb58",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1420,
+			"y":-2200,
+			"width":1030,
+			"height":920
+		},
+		{
+			"file":"pytest настройка фикстуры по работе с БД.md",
+			"id":"423b7f993c3db594",
+			"styleAttributes":{},
+			"type":"file",
+			"x":1230,
+			"y":1250,
+			"width":1100,
+			"height":980
+		},
+		{
+			"file":"pytest параметризованное тестирование (parametrize tests).md",
+			"id":"be706a768ce273ef",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-240,
+			"y":525,
+			"width":800,
+			"height":550
+		},
+		{
+			"file":"pytest ожидание ошибки.md",
+			"id":"10c925b866ddd469",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-1090,
+			"y":580,
+			"width":560,
+			"height":340
+		},
+		{
+			"file":"Тон хорошего тестирования. Хорошее unit тестирование..md",
+			"id":"1721e9ec4fae976f",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-1960,
+			"y":1010,
+			"width":400,
+			"height":240
+		},
+		{
+			"file":"Когда стоит использовать фикстуры.md",
+			"id":"3c6be8cc428e516b",
+			"styleAttributes":{},
+			"type":"file",
+			"x":120,
+			"y":1440,
+			"width":640,
+			"height":920
+		},
+		{
+			"file":"Пишем правильно имена для тестов.md",
+			"id":"6b0cc47dce281aea",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-980,
+			"y":1240,
+			"width":800,
+			"height":800
+		},
+		{
+			"file":"Что на самом деле такое test coverage и что оно нам дает?.md",
+			"id":"165ed7eb1986d0f0",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-4080,
+			"y":1440,
+			"width":800,
+			"height":520
+		},
+		{
+			"file":"Паттерн написания тестов AAA. Как писать юнит тест?.md",
+			"id":"db6ab0da0d17ea7d",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-4130,
+			"y":2240,
+			"width":980,
+			"height":780
+		},
+		{
+			"file":"Тесты должны проверять не единицу кода, а единицу поведения. Pytest, что именно тестировать?.md",
+			"id":"35573ed11b108e56",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-3730,
+			"y":3200,
+			"width":900,
+			"height":680
+		},
+		{
+			"file":"Ответы на вопрос по написанию юнит тестов и тестов ХВ.md",
+			"id":"cb8de04e284bfa12",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-2440,
+			"y":2240,
+			"width":680,
+			"height":800
+		},
+		{
+			"file":"Признаки (запахи) хорошего и плохого теста.md",
+			"id":"8b8932de6b7fef7d",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-1360,
+			"y":2200,
+			"width":480,
+			"height":400
+		},
+		{"file":"4 столпа хорошего теста.md","id":"bdfb2ac86795f017","type":"file","x":-1080,"y":2720,"width":620,"height":400}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

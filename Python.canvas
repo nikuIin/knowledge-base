@@ -26,20 +26,45 @@
       },
       "toNode": "9d38a5b444c66158",
       "toSide": "left"
+    },
+    {
+      "fromNode": "857f0448f2550982",
+      "fromSide": "right",
+      "id": "b2e009e911e88ef5",
+      "styleAttributes": {
+      },
+      "toNode": "cd371600d6000fcd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "857f0448f2550982",
+      "fromSide": "bottom",
+      "id": "be7b8527cb5e9a0d",
+      "styleAttributes": {
+      },
+      "toNode": "be1077b91e305b9a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "be1077b91e305b9a",
+      "fromSide": "bottom",
+      "id": "512cac8d1970025c",
+      "styleAttributes": {
+      },
+      "toNode": "b98a8b40db4b3433",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "be1077b91e305b9a",
+      "fromSide": "right",
+      "id": "d687a80217116965",
+      "styleAttributes": {
+      },
+      "toNode": "d20895321cc8cafc",
+      "toSide": "left"
     }
   ],
   "nodes": [
-    {
-      "file": "python.md",
-      "height": 160,
-      "id": "857f0448f2550982",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -220,
-      "y": -140
-    },
     {
       "file": "Что такое литерал (Literal).md",
       "height": 740,
@@ -48,19 +73,19 @@
       },
       "type": "file",
       "width": 580,
-      "x": -1020,
-      "y": -480
+      "x": -1360,
+      "y": -880
     },
     {
-      "file": "Декораторы в python.md",
-      "height": 340,
-      "id": "8d3c318bdc4f6cf9",
+      "file": "python.md",
+      "height": 160,
+      "id": "857f0448f2550982",
       "styleAttributes": {
       },
       "type": "file",
       "width": 400,
-      "x": 540,
-      "y": -480
+      "x": -240,
+      "y": -320
     },
     {
       "file": "@wraps из functools. Зачем он нужен в наших декораторах?.md",
@@ -71,7 +96,62 @@
       "type": "file",
       "width": 700,
       "x": 1140,
-      "y": -1080
+      "y": -1620
+    },
+    {
+      "file": "Декораторы в python.md",
+      "height": 340,
+      "id": "8d3c318bdc4f6cf9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 480,
+      "y": -1050
+    },
+    {
+      "file": "Итераторы в python (iterators).md",
+      "height": 580,
+      "id": "cd371600d6000fcd",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 580,
+      "x": 590,
+      "y": -430
+    },
+    {
+      "file": "Чистота кода.md",
+      "height": 280,
+      "id": "be1077b91e305b9a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 720,
+      "x": -720,
+      "y": 320
+    },
+    {
+      "file": "Не комментарии, а осмысленный код. Пусть сам код описывает, что делает.md",
+      "height": 2080,
+      "id": "b98a8b40db4b3433",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 920,
+      "x": -1530,
+      "y": 800
+    },
+    {
+      "file": "Паттерн guards. Отказываемся от вложенных проверок.md",
+      "height": 960,
+      "id": "d20895321cc8cafc",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 620,
+      "x": 440,
+      "y": 600
     }
   ]
 }

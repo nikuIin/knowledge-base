@@ -1,4 +1,5 @@
-[[python]]
+#python
+
 [[Python.canvas|Python canvas]]
 [[Декораторы в python]]
 [https://parseltongue.co.in/understanding-the-power-of-pythons-wraps-decorator/#:~:text=Why%20Do%20We%20Need%20%40wraps,replace%20the%20original%20function's%20metadata.]

@@ -4,17 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "917a13fb8bc1ff74",
+        "id": "0a00039d84ecd615",
         "type": "tabs",
         "children": [
           {
-            "id": "1803e5aed517e6c0",
+            "id": "49be5129efeb3470",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "RabbitMQ.canvas",
+                "viewState": {
+                  "x": 719.5160868186136,
+                  "y": 458.9503294334224,
+                  "zoom": -2.2945151749854618
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "RabbitMQ"
+            }
+          },
+          {
+            "id": "838ab0ea650785ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с пользователями RabbitMQ через веб-интерфейс.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Работа с пользователями RabbitMQ через веб-интерфейс"
+            }
+          },
+          {
+            "id": "46fc0cd7afee81de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ищем процесс (программу) слушающий определенный порт и завершаем ее. Кем занят порт.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ищем процесс (программу) слушающий определенный порт и завершаем ее. Кем занят порт"
             }
           }
         ]
@@ -59,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +155,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tests_and_debuggin_software/laboratory_work_2/Чек-лист к приложению \"Каталог аудиофайлов\".md",
-                "collapseAll": false,
+                "file": "каким я хочу быть.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -110,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Чек-лист к приложению \"Каталог аудиофайлов\""
+              "title": "Backlinks for каким я хочу быть"
             }
           },
           {
@@ -119,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tests_and_debuggin_software/laboratory_work_2/Чек-лист к приложению \"Каталог аудиофайлов\".md",
-                "linksCollapsed": false,
+                "file": "каким я хочу быть.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Чек-лист к приложению \"Каталог аудиофайлов\""
+              "title": "Outgoing links from каким я хочу быть"
             }
           },
           {
@@ -134,7 +189,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -146,17 +203,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tests_and_debuggin_software/laboratory_work_2/Чек-лист к приложению \"Каталог аудиофайлов\".md"
+                "file": "daily/07-10-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Чек-лист к приложению \"Каталог аудиофайлов\""
+              "title": "Outline of 07-10-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,48 +232,53 @@
       "flashcards-obsidian:Generate flashcards": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
+      "obsidian-kanban:Create new board": false,
       "card-board:CardBoard": false
     }
   },
-  "active": "1803e5aed517e6c0",
+  "active": "49be5129efeb3470",
   "lastOpenFiles": [
-    "Что мне нравится, а что нет?.md",
-    "daily/16-09-2025.md",
-    "git restore, обратное git add. Откатываем изменения в git.md",
-    "Git.canvas",
-    "Linux Unix.canvas",
-    "Linux UNIX.md",
-    "uv python.md",
-    "@wraps из functools. Зачем он нужен в наших декораторах?.md",
-    "wrapp.md",
-    "UPSERT (insert on conflict update) postgreSQL.md",
-    "FastAPI.canvas",
-    "Python.canvas",
-    "Декораторы в python.md",
-    "postgres/generate series.md",
-    "useful services/blind type.md",
-    "Conftest – общая конфигурация для фикстур, общие фикстуры.md",
-    "Статьи/Как работает наша память, мозг. Лучшие средства и техники для запоминания..md",
-    "Рецензии/Рецензия на книгу \"Сила воли\" Келли Макгоникал.md",
-    "Рецензии/Рецензия на книгу \"Накопительный эффект\" Даррен Харди.md",
-    "Рецензии/Рецензия на книгу \"Иди туда, где трудно\", Таэ Юн Ким.md",
-    "Рецензии/Рецензия на книгу \"Важные связи\" Выйвэнь Ли.md",
-    "Рецензии/Рецензия на книгу \"Иди туда, где страшно\".md",
-    "Неопределенное количество параметров в функции Go.md",
-    "Не стоит искать смысл во всем.md",
-    "Описываем элементы (виджитеы, ui-элементы, css элементы, html) правильно.md",
-    "На что мы тратим своё внимание?.md",
-    "Мой рецепт потока.md",
-    "Кинга «Хлеб с ветчиной» Чарльз Буковски.md",
-    "Логпрог 2 лаба.md",
-    "Логпрог 2.md",
+    "Работа с пользователями RabbitMQ через веб-интерфейс.md",
+    "RabbitMQ.canvas",
+    "Ищем процесс (программу) слушающий определенный порт и завершаем ее. Кем занят порт.md",
+    "Виртуальные хосты в RabbitMQ (vhosts).md",
+    "Мысли/Мысли.md",
+    "Мысли/20 миль в день.md",
+    "Мысли_backup/Делайте свою работу.md",
+    "Мысли_backup/Важно не просто ухватиться за сильное желание, а понять, чего вы на самом деле хотите и что вам нужно.md",
+    "Мысли_backup/Дела уже намного лучше, чем мы думаем.md",
+    "Мысли_backup/Ваша интуиция - ни один голос, а несколько. Вопрос к какому вы прислушиваетесь.md",
+    "Мысли_backup/Жизнь - это действия, а не размышления.md",
+    "Мысли_backup/В чем смысл вашего существования.md",
+    "Мысли_backup/Вы сами решаете что перед собою видеть.md",
+    "Мысли_backup/Давай не задачи людям, а создавай желание внутри них эти задачи делать.md",
+    "Мысли_backup/Важно понимать свои циклы.md",
+    "Мысли_backup/Вы - не то что делаете, а как это делаете..md",
+    "Мысли_backup/Видеть цели как процесс, а не результат.md",
+    "Мысли_backup/В чем смысл уединения.md",
+    "Мысли_backup/В чем смысл отношений.md",
+    "Мысли_backup/Ваше отношение к работе, сама работа и отношение с коллективом очень влияют на вас.md",
+    "Мысли_backup/тест.md",
+    "Мысли_backup/Мысли.md",
+    "Мысли_backup/Дело правда трудное или ты считаешь его трудным?.md",
+    "Мысли_backup/Главное правило решения проблем.md",
+    "Мысли_backup/Выход из тупика при формировании привычек.md",
+    "Мысли_backup/Вы, ваши мысли, социум, развитие.md",
+    "Мысли_backup/Вы не можете управлять своим настроением, но можете управлять своими действиями. А действие прочно связано с настроением.md",
+    "Мысли_backup",
+    "Мысли",
+    "Мысли/{}",
+    "audio_2025-07-25_12-51-52.ogg",
+    "Pytest Тестирование.canvas",
+    "Screenshot 2024-10-28 at 10.39.01.png",
+    "Docker.canvas",
     "Nginx.canvas",
+    "Git.canvas",
+    "Python.canvas",
+    "Linux Unix.canvas",
+    "FastAPI.canvas",
     "Frontend.canvas",
     "PostgreSQL DB.canvas",
-    "Docker.canvas",
-    "Pytest Тестирование.canvas",
-    "Сеть и интернет — canvas.canvas",
-    "audio_2025-07-25_12-51-52.ogg",
     "Ограничиваем запросы в секунду",
     "Recording 20250619132428.webm",
     "Принцип рычага. Роб Мур/Untitled",
@@ -222,9 +288,6 @@
     "Переживание чувств. Сьюзан Кейн",
     "Наполеон Хилл/Думай и богатей",
     "Наполеон Хилл",
-    "Рецензии/IMG_9913.heic",
-    "Рецензии/IMG_9914.heic",
-    "Рецензии",
     "Screenshot 2024-06-29 at 07.36.14.png",
     "Screenshot 2024-10-20 at 14.09.18.png",
     "Screenshot 2024-06-29 at 07.36.25.png"
